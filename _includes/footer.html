@@ -1,0 +1,22 @@
+{%- assign nav_urls = "/|/residential-fencing/|/commercial-fencing/|/hoa-fencing/|/materials/|/fence-styles/|/service-areas/|/about/|/faq/|/contact/" | split: "|" -%}
+{%- assign nav_labels = "Home|Residential Fencing|Commercial Fencing|HOA Fencing|Materials|Fence Styles|Service Areas|About|FAQ|Contact" | split: "|" -%}
+<footer class="site-footer76" role="contentinfo">
+  <div class="footer-inner76">
+    <div class="footer-brand76">
+      <p class="footer-name76">76 Fence of Magnolia</p>
+      <p>Serving Magnolia, Pinehurst, the town of Montgomery, and the Lake Conroe area</p>
+      <p><a class="footer-phone76" href="tel:+12812921897">(281) 292-1897</a></p>
+    </div>
+    <nav class="footer-nav76" aria-label="Footer">
+      <ul>
+        {%- for url in nav_urls -%}
+        <li><a href="{{ url | relative_url }}">{{ nav_labels[forloop.index0] }}</a></li>
+        {%- endfor -%}
+      </ul>
+    </nav>
+  </div>
+  <div class="footer-bottom76">
+    <p>Part of the 76 Fence Family &mdash; <a href="https://76fence.com/houston">76fence.com/houston</a></p>
+    <p>&copy; {{ site.time | date: "%Y" }} 76 Fence of Magnolia</p>
+  </div>
+</footer>

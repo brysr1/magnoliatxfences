@@ -1,0 +1,43 @@
+{%- assign book_url = "https://clienthub.getjobber.com/external/organizations/eb745a73-6325-4f89-a162-a3e8115b2874?utm_source=magnoliatxfences&utm_medium=website&utm_campaign=site_booking" -%}
+{%- assign nav_urls = "/|/residential-fencing/|/commercial-fencing/|/hoa-fencing/|/materials/|/fence-styles/|/service-areas/|/about/|/faq/|/contact/" | split: "|" -%}
+{%- assign nav_labels = "Home|Residential Fencing|Commercial Fencing|HOA Fencing|Materials|Fence Styles|Service Areas|About|FAQ|Contact" | split: "|" -%}
+<header class="site-header76" role="banner">
+  <div class="topbar76">
+    <a class="brand76" href="{{ "/" | relative_url }}">76 Fence <span>of Magnolia</span></a>
+    <div class="header-actions76">
+      <a class="header-phone76" href="tel:+12812921897">(281) 292-1897</a>
+      <a class="btn76 btn76-small" href="{{ book_url }}">Book a Free Estimate</a>
+      <button class="nav-toggle76" type="button" aria-controls="site-nav76" aria-expanded="false" aria-label="Open menu">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </div>
+  <nav class="site-nav76" id="site-nav76" aria-label="Main">
+    <ul>
+      {%- for url in nav_urls -%}
+      {%- assign label = nav_labels[forloop.index0] -%}
+      {%- assign current = false -%}
+      {%- if page.url == url -%}{%- assign current = true -%}{%- endif -%}
+      {%- if url != "/" and page.url contains url -%}{%- assign current = true -%}{%- endif -%}
+      <li><a href="{{ url | relative_url }}"{% if current %} aria-current="page"{% endif %}>{{ label }}</a></li>
+      {%- endfor -%}
+    </ul>
+  </nav>
+</header>
+<div class="mobile-bar76" aria-label="Quick contact">
+  <a href="tel:+12812921897">Call</a>
+  <a href="sms:+12812921897">Text</a>
+  <a class="mobile-bar76-book" href="{{ book_url }}">Book</a>
+</div>
+<script>
+  (function () {
+    var btn = document.querySelector('.nav-toggle76');
+    var nav = document.getElementById('site-nav76');
+    if (!btn || !nav) return;
+    btn.addEventListener('click', function () {
+      var open = nav.classList.toggle('is-open');
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      btn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    });
+  })();
+</script>
