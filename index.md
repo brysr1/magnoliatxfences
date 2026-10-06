@@ -29,3 +29,7 @@ Leaning sections, rotted pickets, storm damage, and broken posts happen. We repa
 ## Get Your Free Estimate
 
 Ready to talk about your fence? Call or text us at [PHONE NUMBER], or [request a free on-site quote](/contact/) and we'll follow up to schedule a visit.
+
+## Part of the 76 Fence Family
+
+76 Fence of Magnolia is the local Magnolia and Pinehurst resource from 76 Fence, the Houston area's trusted fence installation brand, and part of the same local network as [North Houston Fence](https://northhoustonfence.com). For full-service fence installation across greater Houston, visit [76fence.com/houston](https://76fence.com/houston).
