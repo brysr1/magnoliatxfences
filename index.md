@@ -28,7 +28,7 @@ Leaning sections, rotted pickets, storm damage, and broken posts happen. We repa
 
 ## Get Your Free Estimate
 
-Ready to talk about your fence? Call or text us at [PHONE NUMBER], or [request a free on-site quote](/contact/) and we'll follow up to schedule a visit.
+Ready to talk about your fence? Call or text us at (281) 292-1897, or [request a free on-site quote](/contact/) and we'll follow up to schedule a visit.
 
 ## Part of the 76 Fence Family
 
