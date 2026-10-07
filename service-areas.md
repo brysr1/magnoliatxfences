@@ -53,4 +53,19 @@ permalink: /service-areas/
 </ul>
 </div>
 
+<section class="section76-alt full-bleed76">
+<div class="inner76">
+<h2>Our service area at a glance</h2>
+<div class="split76">
+<div class="map76"><iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d90000!2d-95.68!3d30.3!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1sMagnolia%2C%20TX!5e0!3m2!1sen!2sus!4v1791389951200!5m2!1sen!2sus" width="100%" height="320" style="border:0;" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen title="Map of the Magnolia, Pinehurst, Montgomery, and Lake Conroe area"></iframe></div>
+<div>
+<h3>Magnolia &amp; Pinehurst</h3>
+<p>West and south of Lake Conroe, Magnolia and Pinehurst mix deed-restricted subdivisions with acreage in unincorporated Montgomery County. Privacy fencing is the most common request in the neighborhoods, while <a href="/materials/farm-ranch/">farm &amp; ranch</a> and <a href="/fence-styles/split-rail/">rail fencing</a> lead on larger lots.</p>
+<h3>Montgomery &amp; Lake Conroe</h3>
+<p>On the west side of Lake Conroe, lake and golf communities tend to have stricter guidelines for lots on the water or a fairway, so <a href="/fence-styles/ornamental/">ornamental</a> fencing and <a href="/fence-styles/pool-enclosure/">pool enclosures</a> are the most requested styles.</p>
+</div>
+</div>
+</div>
+</section>
+
 {% include cta.html heading="Ready to get started in your neighborhood?" text="Call or text (281) 292-1897, or book a free on-site estimate." %}
