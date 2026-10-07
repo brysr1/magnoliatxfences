@@ -5,7 +5,7 @@ description: Residential and commercial chain link fencing in Magnolia, Pinehurs
 permalink: /materials/chain-link/
 ---
 
-<img class="photo76" src="https://images.unsplash.com/photo-1771806369440-298a1534bb27?auto=format&fit=crop&w=1200&q=80" alt="Chain link fence with a locked double gate on a grassy field">
+<img class="photo76" src="https://images.unsplash.com/photo-1585738591499-6b1dea696320?auto=format&fit=crop&w=1200&q=80" alt="Black vinyl-coated chain link fence in front of a green lawn">
 
 <p><strong>Look.</strong> Chain link is about function first. Standard galvanized silver is the most economical, while black or green vinyl-coated chain link blends into landscaping and looks noticeably more finished. It works well for dog runs, side yards, back property lines, sports areas, and commercial lots where visibility and security matter more than privacy. Privacy slats can be added if you need some screening.</p>
 
