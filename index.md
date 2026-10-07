@@ -73,7 +73,7 @@ description: Fence installation and repair for Magnolia, Pinehurst, the town of 
 <h2>Why 76 Fence of Magnolia</h2>
 <p class="section-intro76">Building a good fence is half craftsmanship and half knowing the local rules. We bring both.</p>
 <div class="trust76">
-<div><h3>We know whose rules apply</h3><p>Unincorporated Montgomery County, the town of Montgomery, and a deed-restricted golf or lake community can each have different expectations. We sort out which apply to your lot before we quote, not after.</p></div>
+<div><h3>We know whose rules apply</h3><p>Unincorporated Montgomery County, the town of Montgomery, and a deed-restricted subdivision or golf and lake community can each have different expectations. We sort out which apply to your lot before we quote, not after.</p></div>
 <div><h3>Paperwork and 811 handled</h3><p>We call in 811 utility locates before any digging and help prepare the drawings and material details your HOA or architectural committee asks for.</p></div>
 <div><h3>Real materials, built to last</h3><p>We use contractor-grade posts, rails, pickets, and hardware &mdash; not the bargain lumber off a big-box shelf &mdash; and set posts for the clay and sandy soils found across the county.</p></div>
 <div><h3>You talk to the people doing the work</h3><p>No call center. The person who measures your fence line is the person you can call with questions, from the first visit to the final walkthrough.</p></div>
