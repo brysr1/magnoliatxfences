@@ -72,9 +72,11 @@ img { max-width: 100%; height: auto; }
 .full-bleed76 {
   box-sizing: border-box;
   width: 100vw;
+  width: calc(100vw - var(--sbw, 0px));
   position: relative;
   left: 50%;
   margin-left: -50vw;
+  margin-left: calc(-50vw + var(--sbw, 0px) / 2);
 }
 
 /* ---------- Header ---------- */
