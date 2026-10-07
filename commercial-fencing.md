@@ -5,7 +5,7 @@ description: Security fencing, perimeter fencing, gates, and dumpster or equipme
 permalink: /commercial-fencing/
 ---
 
-<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1778439570145-a0037dabab50?auto=format&fit=crop&w=1600&q=80');">
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1750796360535-2d4f3be9dd25?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Commercial Fencing</span>
 <h1>Commercial Fencing for Magnolia-Area Businesses</h1>
