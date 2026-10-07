@@ -5,7 +5,7 @@ description: Vinyl privacy and picket fencing for Magnolia, Pinehurst, and Lake 
 permalink: /materials/vinyl/
 ---
 
-<img class="photo76" src="https://images.unsplash.com/photo-1720116981234-59b667e5eb26?auto=format&fit=crop&w=1200&q=80" alt="White vinyl privacy fence along a green lawn">
+<img class="photo76" src="https://images.unsplash.com/photo-1605732585889-1799f3c386da?auto=format&fit=crop&w=1200&q=80" alt="White vinyl privacy fence with matching posts behind a row of shrubs">
 
 <p><strong>Look.</strong> Vinyl gives a crisp, uniform finish that stays the same color year after year. White is the classic choice, but tan, gray, and wood-grain textures are available too. It comes in solid privacy panels, semi-private styles with lattice tops, and traditional pickets, so it works for a backyard enclosure or a front-yard accent.</p>
 

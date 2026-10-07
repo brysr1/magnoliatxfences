@@ -5,7 +5,7 @@ description: Composite fencing for Magnolia, Pinehurst, and Lake Conroe homes â€
 permalink: /materials/composite-trex/
 ---
 
-<img class="photo76" src="https://images.unsplash.com/photo-1706988068486-68f693b06016?auto=format&fit=crop&w=1200&q=80" alt="Dark horizontal-board composite style fence under a blue sky">
+<img class="photo76" src="https://images.unsplash.com/photo-1612507526151-ccda9cabc71d?auto=format&fit=crop&w=1200&q=80" alt="Smooth brown composite-style fence boards behind a flowering rose bush">
 
 <p><strong>Look.</strong> Composite fencing is made from a blend of wood fibers and plastic, formed into boards with a wood-grain texture. Brand-name systems such as Trex are the best known, but several manufacturers make them. Composite comes in earthy browns and modern grays, and its solid boards make it a natural fit for full-privacy and horizontal-style fences that look high-end from day one.</p>
 
