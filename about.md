@@ -5,7 +5,7 @@ description: Meet the team behind 76 Fence of Magnolia — owner Bryan Hayes and
 permalink: /about/
 ---
 
-<img class="photo76" src="https://images.unsplash.com/photo-1679797870465-b4eda40ead96?auto=format&fit=crop&w=1200&q=80" alt="Fence carpenter cutting a wooden board with a power saw on a job site">
+<img class="photo76" src="{{ '/assets/images/about-team.jpg' | relative_url }}" width="1200" height="1012" style="object-position:50% 68%" alt="Two members of the 76 Fence of Magnolia team in company polos, standing beside a 76 Fence truck and a paint horse in a pasture with a wood rail fence">
 
 <section class="section76" style="padding-top:8px">
 <div class="prose76">
