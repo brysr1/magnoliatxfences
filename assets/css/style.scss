@@ -70,6 +70,7 @@ img { max-width: 100%; height: auto; }
 
 /* ---------- Full-bleed helper ---------- */
 .full-bleed76 {
+  box-sizing: border-box;
   width: 100vw;
   position: relative;
   left: 50%;
