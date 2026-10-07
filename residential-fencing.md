@@ -5,7 +5,7 @@ description: Privacy, picket, pool, and pet fencing for homes in Magnolia and Pi
 permalink: /residential-fencing/
 ---
 
-<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1681853108586-f29b4ef5c0fb?auto=format&fit=crop&w=1600&q=80');">
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('/assets/images/residential-hero.jpg');background-position:center 65%;">
 <div class="hero76-inner">
 <span class="eyebrow76">Residential Fencing</span>
 <h1>Residential Fencing for Magnolia &amp; Pinehurst Homes</h1>
