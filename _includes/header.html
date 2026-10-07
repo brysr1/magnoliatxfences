@@ -31,6 +31,11 @@
 </div>
 <script>
   (function () {
+    function setSbw() {
+      document.documentElement.style.setProperty('--sbw', (window.innerWidth - document.documentElement.clientWidth) + 'px');
+    }
+    setSbw();
+    window.addEventListener('resize', setSbw);
     var btn = document.querySelector('.nav-toggle76');
     var nav = document.getElementById('site-nav76');
     if (!btn || !nav) return;
