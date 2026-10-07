@@ -106,7 +106,18 @@ img { max-width: 100%; height: auto; }
   text-decoration: none;
   white-space: nowrap;
 }
-.brand76 span { color: #d9c7a3; font-weight: 400; }
+.brand76 {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+}
+.brand76-logo {
+  height: 52px;
+  width: auto;
+  display: block;
+  flex-shrink: 0;
+}
+.brand76-text span { color: #d9c7a3; font-weight: 400; }
 .brand76:hover { color: #fff; text-decoration: none; }
 .header-actions76 { display: flex; align-items: center; gap: 14px; }
 .header-phone76,
@@ -632,7 +643,8 @@ img { max-width: 100%; height: auto; }
   body { font-size: 16px; }
   h2 { font-size: 1.6rem; }
   .post-title { font-size: 1.9rem; }
-  .brand76 { font-size: 1.2rem; }
+  .brand76 { font-size: 1.2rem; gap: 10px; }
+  .brand76-logo { height: 42px; }
   .hero76 { padding: 70px 18px 64px; }
   .hero76 h1,
   .hero76-small h1 { font-size: 2rem; }
