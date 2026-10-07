@@ -345,6 +345,22 @@ img { max-width: 100%; height: auto; }
   object-fit: cover;
 }
 
+/* ---------- Map inset (service area pages) ---------- */
+.map76 {
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  border: 1px solid var(--line);
+  background: #e9e6dc;
+}
+.map76 iframe {
+  display: block;
+  width: 100%;
+  height: 320px;
+  border: 0;
+}
+.split76 > div > h3:first-child { margin-top: 0; }
+
 /* ---------- Checklist ---------- */
 .checklist76 { list-style: none; margin: 16px 0 0; padding: 0; }
 .checklist76 li {
