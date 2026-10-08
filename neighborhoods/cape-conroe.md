@@ -66,6 +66,19 @@ We repair rusting iron, loose panels, weathered wood, leaning posts, and gates t
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Cape Conroe</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Cape Conroe dates to 1979 and was built out by about 2000, with roughly 700 interior lots, 170 waterfront lots, and about 60 townhomes. Most lots are under a quarter acre, homes run about 1,200 to 3,200 sq ft, and the community is all-electric.</p><p>The entrance is off Hwy 105 W about 12 miles west of I-45, on Cape Conroe Dr just before the Walden Rd intersection.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>The Cape Conroe Property Owners Association, run by elected residents, has recorded deed restrictions. Check them before building or replacing a fence.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes we've looked at are zoned to Stewart Creek Elementary, Montgomery Junior High, and Montgomery High School.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>Small lots make shared fence lines and narrow side yards the main planning points.</p><p>On lakefront lots, the San Jacinto River Authority's Lake Conroe rules treat land up to the 201-foot (MSL) contour as Authority Land, and any permanent structure placed there needs an SJRA permit. Before setting posts near the water, we confirm where your property line and that contour fall.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Cape Conroe fence questions</h2>
 <div class="faq76">

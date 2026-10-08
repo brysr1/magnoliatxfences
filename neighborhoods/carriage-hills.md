@@ -65,6 +65,19 @@ From leaning sections and broken pickets to storm damage and sagging gates, we h
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Carriage Hills</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Carriage Hills is a heavily wooded community of mostly custom homes on lots from about a half acre to 10 acres, many built around 1998 to 2002, with a median home size around 2,400 sq ft.</p><p>It sits off FM 1488 and Carriage Hills Blvd, south of the San Jacinto River, just west of 3 Palms Action Sports Park and next to W.G. Jones State Forest. Welch Park has a lake, trails, a pool, and tennis courts.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Carriage Hills has a homeowners' association; check your deed restrictions and HOA guidelines before building. In 2018 the Conroe City Council removed Carriage Hills from Conroe's long-term annexation plan, so it remains in unincorporated Montgomery County.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes we've looked at are zoned to Bush Elementary, McCullough Junior High, and The Woodlands High School in Conroe ISD.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>Heavy tree cover means planning fence lines around trees and roots.</p><p>Larger lots often need a perimeter fence and a drive gate.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Carriage Hills fence questions</h2>
 <div class="faq76">

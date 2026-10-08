@@ -7,7 +7,7 @@ permalink: /neighborhoods/april-sound/
 
 {% include trust.html %}
 
-April Sound is an established lake and golf community on the west shore of Lake Conroe in Montgomery, TX, home to roughly 7,000 residents. It's part of the Montgomery and Lake Conroe service area that 76 Fence of Magnolia covers alongside Magnolia and Pinehurst. We build fences for homeowners in April Sound that fit the community's guidelines, protect lake and fairway views, and match the established character of the neighborhood.
+April Sound is an established lake and golf community on the southern shore of Lake Conroe in Montgomery, TX, home to roughly 7,000 residents. It's part of the Montgomery and Lake Conroe service area that 76 Fence of Magnolia covers alongside Magnolia and Pinehurst. We build fences for homeowners in April Sound that fit the community's guidelines, protect lake and fairway views, and match the established character of the neighborhood.
 
 ## HOA- and Golf-Frontage-Compliant Fencing
 
@@ -47,7 +47,7 @@ In an established community, many fences have been in place for years. We replac
 <h3>Location and nearby communities</h3>
 <p>April Sound is part of the Montgomery and Lake Conroe service area we cover in addition to Magnolia and Pinehurst. Nearby communities we also serve include <a href="/neighborhoods/walden-on-lake-conroe/">Walden on Lake Conroe</a>, <a href="/neighborhoods/cape-conroe/">Cape Conroe</a>, and <a href="/neighborhoods/grand-harbor/">Grand Harbor</a>. See <a href="/service-areas/">all of our service areas</a>.</p>
 <h3>Permits, HOAs, and property types</h3>
-<p>As an established community on the west shore of Lake Conroe, April Sound has many older fences ready for replacement in a style that still meets current guidelines. Lake and golf communities like April Sound typically have an HOA or architectural review committee with stricter rules for lots on the water or along a fairway, since those views are shared by the whole community. Approval usually comes before any work, and pool barriers need self-closing, self-latching gates. Depending on your address, you may be inside the City of Montgomery limits or in unincorporated county, so we confirm which rules apply before we quote, and we request Texas 811 locates before any digging.</p>
+<p>As an established community on the southern shore of Lake Conroe, April Sound has many older fences ready for replacement in a style that still meets current guidelines. Lake and golf communities like April Sound typically have an HOA or architectural review committee with stricter rules for lots on the water or along a fairway, since those views are shared by the whole community. Approval usually comes before any work, and pool barriers need self-closing, self-latching gates. April Sound was annexed by the City of Conroe in 2015, so City of Conroe rules apply; we confirm any city requirements before we quote, and we request Texas 811 locates before any digging.</p>
 </div>
 </div>
 </div>
@@ -62,19 +62,32 @@ In an established community, many fences have been in place for years. We replac
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in April Sound</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>April Sound was developed in the 1970s on close to 1,300 acres along Lake Conroe's southern shore, with about 7,000 residents. Homes range from small condos to about 7,100 sq ft, and the country club has 27 holes and 12 tennis courts.</p><p>The community has a staffed, gated entrance around the clock.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>April Sound has recorded deed restrictions by section and a property owners' association. Plan on architectural approval before building or replacing a fence.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Many homes are zoned to Stewart Creek Elementary in Montgomery ISD; some older sources list Conroe ISD too, so check the district for your address.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>April Sound was annexed by the City of Conroe effective January 1, 2015, and Conroe police now respond there, so City of Conroe rules apply. We confirm any city permit requirements before we quote.</p><p>On lakefront lots, the San Jacinto River Authority's Lake Conroe rules treat land up to the 201-foot (MSL) contour as Authority Land, and any permanent structure placed there needs an SJRA permit. Before setting posts near the water, we confirm where your property line and that contour fall.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>April Sound fence questions</h2>
 <div class="faq76">
 <details><summary>Will my HOA allow a privacy fence on a lake or golf lot in April Sound?</summary><div class="answer76"><p>Lake and golf lots usually have stricter rules than interior lots, since the view is shared. Open ornamental aluminum or steel is the most common approved choice toward the water or fairway, with privacy sections sometimes allowed between homes. We confirm the rules for your lot before we quote.</p></div></details>
 <details><summary>Do you build pool fences?</summary><div class="answer76"><p>Yes. Pool barriers need self-closing, self-latching gates, and exact requirements depend on your jurisdiction and HOA. Aluminum is the most common choice because it won't rust.</p></div></details>
-<details><summary>Is my home inside the City of Montgomery limits?</summary><div class="answer76"><p>Some addresses in the area are and many aren't. We confirm which jurisdiction applies to your address before we quote, so you know whether a permit is involved.</p></div></details>
+<details><summary>Is April Sound inside city limits?</summary><div class="answer76"><p>Yes. April Sound was annexed by the City of Conroe effective January 1, 2015, so City of Conroe requirements apply. We confirm what the city needs for your fence before we quote.</p></div></details>
 <details><summary>Do you serve April Sound?</summary><div class="answer76"><p>Yes. We're based at 41040 Community Rd in Magnolia and work throughout April Sound and the surrounding area. Call (281) 292-1897 to confirm your address or book a free estimate.</p></div></details>
 </div>
 <p style="margin-top:14px"><a href="/faq/">More fence questions &rarr;</a></p>
 </section>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Will my HOA allow a privacy fence on a lake or golf lot in April Sound?", "acceptedAnswer": {"@type": "Answer", "text": "Lake and golf lots usually have stricter rules than interior lots, since the view is shared. Open ornamental aluminum or steel is the most common approved choice toward the water or fairway, with privacy sections sometimes allowed between homes. We confirm the rules for your lot before we quote."}}, {"@type": "Question", "name": "Do you build pool fences?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Pool barriers need self-closing, self-latching gates, and exact requirements depend on your jurisdiction and HOA. Aluminum is the most common choice because it won't rust."}}, {"@type": "Question", "name": "Is my home inside the City of Montgomery limits?", "acceptedAnswer": {"@type": "Answer", "text": "Some addresses in the area are and many aren't. We confirm which jurisdiction applies to your address before we quote, so you know whether a permit is involved."}}, {"@type": "Question", "name": "Do you serve April Sound?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We're based at 41040 Community Rd in Magnolia and work throughout April Sound and the surrounding area. Call (281) 292-1897 to confirm your address or book a free estimate."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Will my HOA allow a privacy fence on a lake or golf lot in April Sound?", "acceptedAnswer": {"@type": "Answer", "text": "Lake and golf lots usually have stricter rules than interior lots, since the view is shared. Open ornamental aluminum or steel is the most common approved choice toward the water or fairway, with privacy sections sometimes allowed between homes. We confirm the rules for your lot before we quote."}}, {"@type": "Question", "name": "Do you build pool fences?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Pool barriers need self-closing, self-latching gates, and exact requirements depend on your jurisdiction and HOA. Aluminum is the most common choice because it won't rust."}}, {"@type": "Question", "name": "Is April Sound inside city limits?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. April Sound was annexed by the City of Conroe effective January 1, 2015, so City of Conroe requirements apply. We confirm what the city needs for your fence before we quote."}}, {"@type": "Question", "name": "Do you serve April Sound?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We're based at 41040 Community Rd in Magnolia and work throughout April Sound and the surrounding area. Call (281) 292-1897 to confirm your address or book a free estimate."}}]}
 </script>
 
 ## Free Fence Estimates in April Sound
