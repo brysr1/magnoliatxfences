@@ -64,9 +64,23 @@ We're based in the Magnolia area and work in neighborhoods like Mostyn Manor eve
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Mostyn Manor</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Mostyn Manor is reached from FM 1488 by way of Community Rd and Mostyn Dr, just down the road from our office. Many lots run about 0.4 to 0.5 acre, some are wooded, and some homesites are much larger.</p><p>Homes generally run about 2,400 to 4,000 sq ft, and the newer Mostyn Manor Reserve section has DRB Homes plans of roughly 2,400 to 4,900 sq ft.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Mostyn Manor is a deed-restricted HOA community, so plan on architectural approval for new fences, extensions, and color changes.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes we've looked at are zoned to Magnolia Parkway Elementary, Magnolia Parkway Junior High, and Magnolia High School.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>The community has a lake, and some Reserve lots back to greenbelt or park, where an open or partially open back fence keeps the view.</p><p>On wooded lots we plan the line around trees and set posts to clear root zones where we can.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Mostyn Manor fence questions</h2>
 <div class="faq76">
+<details><summary>How close are you to Mostyn Manor?</summary><div class="answer76"><p>Very close. Our office is at 41040 Community Rd, and Mostyn Manor is reached from FM 1488 by way of Community Rd.</p></div></details>
 <details><summary>Do I need HOA approval for a fence in Mostyn Manor?</summary><div class="answer76"><p>In most cases, yes. Deed-restricted neighborhoods like Mostyn Manor typically review fence height, style, material, and stain color before you build. We help put together the drawing and material details your HOA asks for, and we start once you have written approval.</p></div></details>
 <details><summary>Can you replace or extend my builder's fence?</summary><div class="answer76"><p>Yes. We replace builder-grade fences and extend existing lines, matching the picket style, height, and stain color that's standard in your section.</p></div></details>
 <details><summary>How long does a fence take in Mostyn Manor?</summary><div class="answer76"><p>Most backyard fences take one to three days once materials are on site. HOA approval and Texas 811 locates are usually what set the start date.</p></div></details>
@@ -76,7 +90,7 @@ We're based in the Magnolia area and work in neighborhoods like Mostyn Manor eve
 </section>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do I need HOA approval for a fence in Mostyn Manor?", "acceptedAnswer": {"@type": "Answer", "text": "In most cases, yes. Deed-restricted neighborhoods like Mostyn Manor typically review fence height, style, material, and stain color before you build. We help put together the drawing and material details your HOA asks for, and we start once you have written approval."}}, {"@type": "Question", "name": "Can you replace or extend my builder's fence?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We replace builder-grade fences and extend existing lines, matching the picket style, height, and stain color that's standard in your section."}}, {"@type": "Question", "name": "How long does a fence take in Mostyn Manor?", "acceptedAnswer": {"@type": "Answer", "text": "Most backyard fences take one to three days once materials are on site. HOA approval and Texas 811 locates are usually what set the start date."}}, {"@type": "Question", "name": "Do you serve Mostyn Manor?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We're based at 41040 Community Rd in Magnolia and work throughout Mostyn Manor and the surrounding area. Call (281) 292-1897 to confirm your address or book a free estimate."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "How close are you to Mostyn Manor?", "acceptedAnswer": {"@type": "Answer", "text": "Very close. Our office is at 41040 Community Rd, and Mostyn Manor is reached from FM 1488 by way of Community Rd."}}, {"@type": "Question", "name": "Do I need HOA approval for a fence in Mostyn Manor?", "acceptedAnswer": {"@type": "Answer", "text": "In most cases, yes. Deed-restricted neighborhoods like Mostyn Manor typically review fence height, style, material, and stain color before you build. We help put together the drawing and material details your HOA asks for, and we start once you have written approval."}}, {"@type": "Question", "name": "Can you replace or extend my builder's fence?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We replace builder-grade fences and extend existing lines, matching the picket style, height, and stain color that's standard in your section."}}, {"@type": "Question", "name": "How long does a fence take in Mostyn Manor?", "acceptedAnswer": {"@type": "Answer", "text": "Most backyard fences take one to three days once materials are on site. HOA approval and Texas 811 locates are usually what set the start date."}}, {"@type": "Question", "name": "Do you serve Mostyn Manor?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We're based at 41040 Community Rd in Magnolia and work throughout Mostyn Manor and the surrounding area. Call (281) 292-1897 to confirm your address or book a free estimate."}}]}
 </script>
 
 ## Schedule a Free Estimate

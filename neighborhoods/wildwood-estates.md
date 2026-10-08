@@ -66,6 +66,19 @@ Storms, falling limbs, and animal pressure take a toll on even the best fences. 
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Wildwood Estates</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Wildwood Estates is an equestrian community with five trailheads and more than 100 acres of riding and hiking trails. Lots are often several acres, some with fenced horse pastures, ponds, and barns; some homes date to the early 1990s.</p><p>It's reached from FM 1488 by way of Spur 149 and FM 149.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Wildwood Estates has a property owners' association. Check its rules for your lot before building pasture or perimeter fencing.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>School assignments vary by address; homes we've looked at are zoned to Audubon or Magnolia Parkway Elementary, Magnolia Parkway or Bear Branch Junior High, and Magnolia High School.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>Horse property calls for no-climb wire, pipe and rail, and wide, well-hung pasture gates.</p><p>If any part of the fence line falls in a mapped 100-year floodplain, Montgomery County's floodplain rules can require a development permit, though a three-strand barbed wire fence is specifically exempt. We check the floodplain map for your lot before we quote.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Wildwood Estates fence questions</h2>
 <div class="faq76">

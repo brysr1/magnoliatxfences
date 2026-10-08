@@ -66,9 +66,23 @@ On wooded lots, falling limbs are a fact of life. We repair crushed sections, re
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Clear Creek Forest</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Clear Creek Forest was developed in the late 1970s and early 1980s and has 14 sections. Sections 1 through 9 are in Waller County; Sections 10 through 13 and the Estates of Clear Creek are in Montgomery County, which is the part we serve.</p><p>Lots typically run about a half acre to 3 acres under a heavy pine canopy, with a median build year around 2002.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Each section has its own recorded deed restrictions with no expiration date, and some sections have their own POA (Sections 11 and 13, for example). Check the restrictions for your section before building; we'll help with any approval your POA requires.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes we've looked at in the Montgomery County sections are zoned to J.L. Lyon Elementary, Magnolia Junior High, and Magnolia West High School.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>Pine trees and roots along fence lines are a given here. We lay out the line to avoid large trees where we can and set posts accordingly.</p><p>Larger lots often mean a perimeter fence with a drive gate, plus a privacy section around the backyard.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Clear Creek Forest fence questions</h2>
 <div class="faq76">
+<details><summary>Which part of Clear Creek Forest do you serve?</summary><div class="answer76"><p>We serve the Montgomery County sections (10 through 13 and the Estates of Clear Creek). Sections 1 through 9 are in Waller County, outside our service area.</p></div></details>
 <details><summary>Do deed restrictions apply to fencing in Clear Creek Forest?</summary><div class="answer76"><p>Many acreage communities have deed restrictions or a POA even without a typical HOA, and some cover fencing. Check your deed or with your POA, and we'll help with anything the committee needs.</p></div></details>
 <details><summary>Do I need a survey to fence my property?</summary><div class="answer76"><p>It isn't always required, but on acreage a recent survey or marked corner pins is the best way to keep a long fence line on your side of the property line.</p></div></details>
 <details><summary>Can you build fencing for horses or livestock?</summary><div class="answer76"><p>Yes, where your deed restrictions allow animals. We build no-climb horse fence, field wire, barbed wire, pipe and rail, and wide pasture and drive gates. See our acreage and ranch fencing page.</p></div></details>
@@ -78,7 +92,7 @@ On wooded lots, falling limbs are a fact of life. We repair crushed sections, re
 </section>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do deed restrictions apply to fencing in Clear Creek Forest?", "acceptedAnswer": {"@type": "Answer", "text": "Many acreage communities have deed restrictions or a POA even without a typical HOA, and some cover fencing. Check your deed or with your POA, and we'll help with anything the committee needs."}}, {"@type": "Question", "name": "Do I need a survey to fence my property?", "acceptedAnswer": {"@type": "Answer", "text": "It isn't always required, but on acreage a recent survey or marked corner pins is the best way to keep a long fence line on your side of the property line."}}, {"@type": "Question", "name": "Can you build fencing for horses or livestock?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, where your deed restrictions allow animals. We build no-climb horse fence, field wire, barbed wire, pipe and rail, and wide pasture and drive gates. See our acreage and ranch fencing page."}}, {"@type": "Question", "name": "Do you serve Clear Creek Forest?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We're based at 41040 Community Rd in Magnolia and work throughout Clear Creek Forest and the surrounding area. Call (281) 292-1897 to confirm your address or book a free estimate."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Which part of Clear Creek Forest do you serve?", "acceptedAnswer": {"@type": "Answer", "text": "We serve the Montgomery County sections (10 through 13 and the Estates of Clear Creek). Sections 1 through 9 are in Waller County, outside our service area."}}, {"@type": "Question", "name": "Do deed restrictions apply to fencing in Clear Creek Forest?", "acceptedAnswer": {"@type": "Answer", "text": "Many acreage communities have deed restrictions or a POA even without a typical HOA, and some cover fencing. Check your deed or with your POA, and we'll help with anything the committee needs."}}, {"@type": "Question", "name": "Do I need a survey to fence my property?", "acceptedAnswer": {"@type": "Answer", "text": "It isn't always required, but on acreage a recent survey or marked corner pins is the best way to keep a long fence line on your side of the property line."}}, {"@type": "Question", "name": "Can you build fencing for horses or livestock?", "acceptedAnswer": {"@type": "Answer", "text": "Yes, where your deed restrictions allow animals. We build no-climb horse fence, field wire, barbed wire, pipe and rail, and wide pasture and drive gates. See our acreage and ranch fencing page."}}, {"@type": "Question", "name": "Do you serve Clear Creek Forest?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We're based at 41040 Community Rd in Magnolia and work throughout Clear Creek Forest and the surrounding area. Call (281) 292-1897 to confirm your address or book a free estimate."}}]}
 </script>
 
 ## Get a Free Clear Creek Forest Fence Quote

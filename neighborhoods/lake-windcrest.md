@@ -66,6 +66,19 @@ High winds, falling limbs, and livestock all wear on fences. We repair broken po
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Lake Windcrest</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Lake Windcrest has just over 900 homesites on wooded 1- to 5-acre lots, with four lakes (Windcrest Lake is the one for power boats), walking and horseback riding trails, and the Lake Windcrest Golf Club.</p><p>The Lake Windcrest POA has recorded covenants for Sections 1 through 5, with several amendments.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Lake Windcrest's deed restrictions cover fencing, and the Architectural Control Committee approves new work. Horses are allowed in the non-golf section under the deed restrictions.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes we've looked at are zoned to Bear Branch Elementary, Magnolia Parkway Junior High, and Magnolia High School.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>Horse lots need horse-safe fencing and solid pasture gates.</p><p>The POA has its own guidance on drainage, lakes, and dams, so keep fence lines out of drainage paths and away from dam areas.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Lake Windcrest fence questions</h2>
 <div class="faq76">

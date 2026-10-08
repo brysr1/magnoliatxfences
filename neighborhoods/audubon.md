@@ -63,9 +63,23 @@ We're local to Magnolia, we understand how planned communities in this part of M
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Audubon</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Audubon is laid out in districts including Creekside North, Creekside South, Audubon Park, and Heron Run, on lots roughly 40 to 70 feet wide.</p><p>Builders include David Weekley (45-foot homesites) and Westin (70-foot homesites, homes of about 3,300 to 4,500 sq ft), and the plan calls for about 5,000 single-family homes when complete.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>The Audubon Homeowners Association publishes Fence Guidelines alongside its Residential Design Guidelines and modification guidelines, and HOA dues include front-yard maintenance.</p><p>Because the guidelines are specific to Audubon, we build to them and help you submit your modification request before any work starts.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Audubon Elementary opened on site in fall 2024, and many homes are zoned to Magnolia West High School. Intermediate and junior high assignments vary by section, so check Magnolia ISD for your address.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>The community includes a 706-acre park system and a lake at Legacy Park, with trails along Mill Creek.</p><p>On narrower homesites, gate width and side-yard access matter as much as the back fence line.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Audubon fence questions</h2>
 <div class="faq76">
+<details><summary>Does Audubon have fence guidelines?</summary><div class="answer76"><p>Yes. The Audubon HOA publishes Fence Guidelines along with its Residential Design Guidelines. We build to those guidelines and help you submit a modification request before work begins.</p></div></details>
 <details><summary>Do I need HOA approval for a fence in Audubon?</summary><div class="answer76"><p>In most cases, yes. Deed-restricted neighborhoods like Audubon typically review fence height, style, material, and stain color before you build. We help put together the drawing and material details your HOA asks for, and we start once you have written approval.</p></div></details>
 <details><summary>Can you replace or extend my builder's fence?</summary><div class="answer76"><p>Yes. We replace builder-grade fences and extend existing lines, matching the picket style, height, and stain color that's standard in your section.</p></div></details>
 <details><summary>How long does a fence take in Audubon?</summary><div class="answer76"><p>Most backyard fences take one to three days once materials are on site. HOA approval and Texas 811 locates are usually what set the start date.</p></div></details>
@@ -75,7 +89,7 @@ We're local to Magnolia, we understand how planned communities in this part of M
 </section>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do I need HOA approval for a fence in Audubon?", "acceptedAnswer": {"@type": "Answer", "text": "In most cases, yes. Deed-restricted neighborhoods like Audubon typically review fence height, style, material, and stain color before you build. We help put together the drawing and material details your HOA asks for, and we start once you have written approval."}}, {"@type": "Question", "name": "Can you replace or extend my builder's fence?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We replace builder-grade fences and extend existing lines, matching the picket style, height, and stain color that's standard in your section."}}, {"@type": "Question", "name": "How long does a fence take in Audubon?", "acceptedAnswer": {"@type": "Answer", "text": "Most backyard fences take one to three days once materials are on site. HOA approval and Texas 811 locates are usually what set the start date."}}, {"@type": "Question", "name": "Do you serve Audubon?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We're based at 41040 Community Rd in Magnolia and work throughout Audubon and the surrounding area. Call (281) 292-1897 to confirm your address or book a free estimate."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Does Audubon have fence guidelines?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. The Audubon HOA publishes Fence Guidelines along with its Residential Design Guidelines. We build to those guidelines and help you submit a modification request before work begins."}}, {"@type": "Question", "name": "Do I need HOA approval for a fence in Audubon?", "acceptedAnswer": {"@type": "Answer", "text": "In most cases, yes. Deed-restricted neighborhoods like Audubon typically review fence height, style, material, and stain color before you build. We help put together the drawing and material details your HOA asks for, and we start once you have written approval."}}, {"@type": "Question", "name": "Can you replace or extend my builder's fence?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We replace builder-grade fences and extend existing lines, matching the picket style, height, and stain color that's standard in your section."}}, {"@type": "Question", "name": "How long does a fence take in Audubon?", "acceptedAnswer": {"@type": "Answer", "text": "Most backyard fences take one to three days once materials are on site. HOA approval and Texas 811 locates are usually what set the start date."}}, {"@type": "Question", "name": "Do you serve Audubon?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We're based at 41040 Community Rd in Magnolia and work throughout Audubon and the surrounding area. Call (281) 292-1897 to confirm your address or book a free estimate."}}]}
 </script>
 
 ## Request Your Free Audubon Fence Estimate

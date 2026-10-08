@@ -64,6 +64,19 @@ Not every problem requires a whole new fence. For homeowners in Woodland Oaks, w
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Woodland Oaks</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Woodland Oaks homes range from about 1,400 to 4,200 sq ft, many built from the late 1990s through the 2000s, often on lots of about a quarter acre. Streets include Gunnison Dr and Grant Dr.</p><p>The Woodland Oaks POA and the Woodland Oaks Utility District are separate organizations.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Woodland Oaks' deed restrictions were set by the developer and recorded in Montgomery County, and changes go through the POA's architectural review (ARC) application. Amending the restrictions takes 51% of owners.</p><p>Submit an ARC application before building or replacing a fence; we'll provide the drawing and material details it asks for.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes we've looked at are zoned to Tom R. Ellisor Elementary, Bear Branch Junior High, and Magnolia High School.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>Fences that went up with homes built in the late 1990s are now more than 20 years old, so check posts for rot and lean before deciding between repair and replacement.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Woodland Oaks fence questions</h2>
 <div class="faq76">
