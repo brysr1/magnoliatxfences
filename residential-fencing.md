@@ -13,6 +13,8 @@ permalink: /residential-fencing/
 </div>
 </section>
 
+{% include trust.html %}
+
 <section class="section76">
 <div class="prose76">
 <h2>A fence that fits the yard you have</h2>

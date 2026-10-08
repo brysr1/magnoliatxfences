@@ -13,6 +13,8 @@ permalink: /materials/
 </div>
 </section>
 
+{% include trust.html %}
+
 <section class="section76">
 <div class="prose76">
 <p>Montgomery County is a mix of sticky clay in some neighborhoods and loose, sandy soil in others &mdash; sometimes on the same street. Add long humid summers, heavy spring rains, and the occasional tropical storm, and material choice matters more than it does in drier places. Wood needs sealing to stay ahead of moisture. Metal needs a good powder coat to resist rust. Posts need the right depth and backfill for the soil they're sitting in.</p>

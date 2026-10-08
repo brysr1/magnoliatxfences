@@ -13,6 +13,8 @@ permalink: /fence-styles/
 </div>
 </section>
 
+{% include trust.html %}
+
 <section class="section76">
 <div class="prose76">
 <p>Once you know what the fence needs to accomplish &mdash; privacy, a safe pool area, a pasture boundary, or just a finished look out front &mdash; the style follows. Here are the styles we build most often across Magnolia, Pinehurst, and the Lake Conroe area. If you're in an HOA community, we'll confirm which of these your guidelines allow before you fall in love with one.</p>
