@@ -18,8 +18,9 @@ permalink: /service-areas/magnolia-tx/
 <section class="section76">
 <div class="prose76">
 <h2>About Magnolia</h2>
-<p>Magnolia sits where FM 1774 (Magnolia Boulevard) meets FM 1488 in southwest Montgomery County, about 20 miles southwest of Conroe. The town went by Mink's Prairie and other names before taking the name Magnolia in 1903, and it incorporated as a city in 1968. The city counted 2,359 residents in the 2020 census and has grown quickly since, as new subdivisions fill in along FM 1488 and FM 1774.</p>
+<p>Magnolia sits where FM 1774 (Magnolia Boulevard) meets FM 1488 in southwest Montgomery County, about 20 miles southwest of Conroe. First known as Mink's Prairie, the town took the name Magnolia in 1903 for the magnolia trees along Mill Creek, and it incorporated as a city in 1968. The city counted 2,359 residents in the 2020 census and has grown quickly since, as new subdivisions fill in along FM 1488 and FM 1774.</p>
 <p>Our office is at 41040 Community Rd in Magnolia, so this is the area we know best: master-planned neighborhoods with HOA guidelines on one side, and wooded acreage with horses and long property lines on the other. Most of the area is in Magnolia ISD.</p>
+<p>The city's parks include 30-acre Unity Park, a park and wildlife preserve with about 2.5 miles of trails, wetlands, and a splash pad, and The Stroll, a half-mile linear park linking Sullivan Park on FM 1488 with Unity Park. The Magnolia Depot, built in 1902 by the I&amp;GN railroad, carries a state historical marker.</p>
 </div>
 </section>
 
@@ -61,7 +62,7 @@ permalink: /service-areas/magnolia-tx/
 </div>
 <div>
 <h2>Permits</h2>
-<p>Most Magnolia-area addresses are in unincorporated Montgomery County, where a typical residential fence usually doesn't need a county building permit. Addresses inside the City of Magnolia limits fall under the city's own rules, so check with the city or ask us. Either way, HOA or POA approval may still apply, and we confirm what applies to your address before we quote.</p>
+<p>Inside the City of Magnolia limits, a fence needs a city permit. The city's fee schedule (amended November 2024) lists a $65 fence permit plus a $50 administrative fee, and the application asks for the fence's linear footage, material, and height. Much of the surrounding area is unincorporated Montgomery County, where a typical residential fence usually doesn't need a county building permit, though the county's floodplain rules can require a development permit for work in a mapped floodplain. HOA or POA approval may apply either way, and we confirm what applies to your address before we quote.</p>
 <p>We request Texas 811 utility locates before any digging.</p>
 </div>
 </div>
@@ -81,7 +82,7 @@ permalink: /service-areas/magnolia-tx/
 <section class="section76 local-faq76">
 <h2>Magnolia fence questions</h2>
 <div class="faq76">
-<details><summary>Do I need a permit for a fence in Magnolia?</summary><div class="answer76"><p>It depends on where your address falls. In unincorporated Montgomery County a typical residential fence usually doesn't need a county permit; inside the City of Magnolia limits, the city's rules apply. HOA or POA approval may be required either way. We confirm what applies before we quote.</p></div></details>
+<details><summary>Do I need a permit for a fence in Magnolia?</summary><div class="answer76"><p>Inside the City of Magnolia limits, yes. The city lists a $65 fence permit plus a $50 administrative fee, and the application asks for linear footage, material, and height. Outside city limits, in unincorporated Montgomery County, a typical residential fence usually doesn't need a county permit unless it's in a mapped floodplain. HOA or POA approval may still apply. We confirm what applies before we quote.</p></div></details>
 <details><summary>Where are you located?</summary><div class="answer76"><p>Our office is at 41040 Community Rd, Magnolia, TX 77354. We work throughout Magnolia, Pinehurst, Montgomery, and the Lake Conroe area.</p></div></details>
 <details><summary>Do you build fencing for horses and livestock?</summary><div class="answer76"><p>Yes. We build no-climb horse fence, field wire, barbed wire, pipe and rail, and wide pasture and drive gates for acreage around Magnolia.</p></div></details>
 <details><summary>Is my neighborhood on your list?</summary><div class="answer76"><p>If you don't see it, we probably still cover it. Call (281) 292-1897 and we'll confirm.</p></div></details>
@@ -90,7 +91,7 @@ permalink: /service-areas/magnolia-tx/
 </section>
 
 <script type="application/ld+json">
-{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do I need a permit for a fence in Magnolia?", "acceptedAnswer": {"@type": "Answer", "text": "It depends on where your address falls. In unincorporated Montgomery County a typical residential fence usually doesn't need a county permit; inside the City of Magnolia limits, the city's rules apply. HOA or POA approval may be required either way. We confirm what applies before we quote."}}, {"@type": "Question", "name": "Where are you located?", "acceptedAnswer": {"@type": "Answer", "text": "Our office is at 41040 Community Rd, Magnolia, TX 77354. We work throughout Magnolia, Pinehurst, Montgomery, and the Lake Conroe area."}}, {"@type": "Question", "name": "Do you build fencing for horses and livestock?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We build no-climb horse fence, field wire, barbed wire, pipe and rail, and wide pasture and drive gates for acreage around Magnolia."}}, {"@type": "Question", "name": "Is my neighborhood on your list?", "acceptedAnswer": {"@type": "Answer", "text": "If you don't see it, we probably still cover it. Call (281) 292-1897 and we'll confirm."}}]}
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do I need a permit for a fence in Magnolia?", "acceptedAnswer": {"@type": "Answer", "text": "Inside the City of Magnolia limits, yes. The city lists a $65 fence permit plus a $50 administrative fee, and the application asks for linear footage, material, and height. Outside city limits, in unincorporated Montgomery County, a typical residential fence usually doesn't need a county permit unless it's in a mapped floodplain. HOA or POA approval may still apply. We confirm what applies before we quote."}}, {"@type": "Question", "name": "Where are you located?", "acceptedAnswer": {"@type": "Answer", "text": "Our office is at 41040 Community Rd, Magnolia, TX 77354. We work throughout Magnolia, Pinehurst, Montgomery, and the Lake Conroe area."}}, {"@type": "Question", "name": "Do you build fencing for horses and livestock?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We build no-climb horse fence, field wire, barbed wire, pipe and rail, and wide pasture and drive gates for acreage around Magnolia."}}, {"@type": "Question", "name": "Is my neighborhood on your list?", "acceptedAnswer": {"@type": "Answer", "text": "If you don't see it, we probably still cover it. Call (281) 292-1897 and we'll confirm."}}]}
 </script>
 
 <section class="section76-alt full-bleed76">
