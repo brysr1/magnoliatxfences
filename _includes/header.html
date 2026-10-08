@@ -1,6 +1,4 @@
 {%- assign book_url = "https://clienthub.getjobber.com/external/organizations/eb745a73-6325-4f89-a162-a3e8115b2874?utm_source=magnoliatxfences&utm_medium=website&utm_campaign=site_booking" -%}
-{%- assign nav_urls = "/|/residential-fencing/|/commercial-fencing/|/hoa-fencing/|/materials/|/fence-styles/|/service-areas/|/about/|/faq/|/contact/" | split: "|" -%}
-{%- assign nav_labels = "Home|Residential Fencing|Commercial Fencing|HOA Fencing|Materials|Fence Styles|Service Areas|About|FAQ|Contact" | split: "|" -%}
 <header class="site-header76" role="banner">
   <div class="topbar76">
     <a class="brand76" href="{{ "/" | relative_url }}"><img class="brand76-logo" src="{{ "/assets/images/logo-76-fence.png" | relative_url }}" alt="76 Fence logo" width="40" height="52"><span class="brand76-text">76 Fence <span>of Magnolia</span></span></a>
@@ -14,13 +12,40 @@
   </div>
   <nav class="site-nav76" id="site-nav76" aria-label="Main">
     <ul>
-      {%- for url in nav_urls -%}
-      {%- assign label = nav_labels[forloop.index0] -%}
-      {%- assign current = false -%}
-      {%- if page.url == url -%}{%- assign current = true -%}{%- endif -%}
-      {%- if url != "/" and page.url contains url -%}{%- assign current = true -%}{%- endif -%}
-      <li><a href="{{ url | relative_url }}"{% if current %} aria-current="page"{% endif %}>{{ label }}</a></li>
-      {%- endfor -%}
+      {%- for item in site.data.navigation.main -%}
+        {%- assign has_sub = false -%}
+        {%- if item.children or item.groups -%}{%- assign has_sub = true -%}{%- endif -%}
+        {%- assign in_section = false -%}
+        {%- if item.match and page.url contains item.match -%}{%- assign in_section = true -%}{%- endif -%}
+        {%- for c in item.children -%}{%- if page.url == c.url -%}{%- assign in_section = true -%}{%- endif -%}{%- endfor -%}
+        <li class="{% if has_sub %}has-sub76{% if item.groups %} has-mega76{% endif %}{% endif %}{% if in_section %} is-section76{% endif %}">
+          <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+          {%- if has_sub %}
+          <button class="sub-toggle76" type="button" aria-expanded="false" aria-label="Show {{ item.title }} pages"><span aria-hidden="true"></span></button>
+          {%- if item.groups %}
+          <div class="mega76">
+            {%- for g in item.groups %}
+            <div class="mega76-col">
+              <p class="mega76-title">{{ g.title }}</p>
+              <ul>
+                {%- for c in g.items %}
+                <li><a href="{{ c.url | relative_url }}"{% if page.url == c.url %} aria-current="page"{% endif %}>{{ c.title }}</a></li>
+                {%- endfor %}
+              </ul>
+            </div>
+            {%- endfor %}
+            <a class="mega76-all" href="{{ item.url | relative_url }}">View all {{ item.title | downcase }} &rarr;</a>
+          </div>
+          {%- else %}
+          <ul class="sub76">
+            {%- for c in item.children %}
+            <li><a href="{{ c.url | relative_url }}"{% if page.url == c.url %} aria-current="page"{% endif %}>{{ c.title }}</a></li>
+            {%- endfor %}
+          </ul>
+          {%- endif %}
+          {%- endif %}
+        </li>
+      {%- endfor %}
     </ul>
   </nav>
 </header>
@@ -43,6 +68,47 @@
       var open = nav.classList.toggle('is-open');
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
       btn.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+    });
+  })();
+  /* Header dropdown toggles: click/tap the caret to open, Esc or outside click to close. */
+  (function () {
+    var nav = document.getElementById('site-nav76');
+    if (!nav) return;
+    var items = nav.querySelectorAll('.has-sub76');
+
+    function close(li) {
+      li.classList.remove('is-open');
+      var b = li.querySelector('.sub-toggle76');
+      if (b) b.setAttribute('aria-expanded', 'false');
+    }
+    function closeAll(except) {
+      items.forEach(function (li) { if (li !== except) close(li); });
+    }
+
+    items.forEach(function (li) {
+      var btn = li.querySelector('.sub-toggle76');
+      if (!btn) return;
+      btn.addEventListener('click', function (e) {
+        e.stopPropagation();
+        var open = !li.classList.contains('is-open');
+        closeAll(li);
+        li.classList.toggle('is-open', open);
+        btn.setAttribute('aria-expanded', String(open));
+      });
+      // On mobile, open the section the visitor is currently in
+      if (window.matchMedia('(max-width: 900px)').matches && li.classList.contains('is-section76')) {
+        li.classList.add('is-open');
+        btn.setAttribute('aria-expanded', 'true');
+      }
+    });
+
+    document.addEventListener('click', function (e) {
+      if (!nav.contains(e.target) && window.matchMedia('(min-width: 901px)').matches) closeAll();
+    });
+    document.addEventListener('keydown', function (e) {
+      if (e.key !== 'Escape') return;
+      var open = nav.querySelector('.has-sub76.is-open');
+      if (open) { close(open); open.querySelector('.sub-toggle76').focus(); }
     });
   })();
 </script>
