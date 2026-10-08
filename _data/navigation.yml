@@ -12,9 +12,16 @@ main:
         url: /acreage-ranch-fencing/
       - title: Fence Repair & Maintenance
         url: /maintenance-repair/
+      - title: Staining & Power Washing
+        url: /fence-staining-power-washing/
 
   - title: Commercial Fencing
     url: /commercial-fencing/
+    children:
+      - title: Security Fencing
+        url: /security-fencing/
+      - title: Dumpster Enclosures
+        url: /dumpster-enclosures/
 
   - title: HOA Fencing
     url: /hoa-fencing/
@@ -54,11 +61,20 @@ main:
         url: /fence-styles/pool-enclosure/
       - title: Split Rail & Post-and-Rail
         url: /fence-styles/split-rail/
+      - title: Gates & Gate Openers
+        url: /fence-styles/gates/
+      - title: Pet & Dog Fences
+        url: /fence-styles/pet/
 
   - title: Service Areas
     url: /service-areas/
     match: /neighborhoods/
     groups:
+      - title: Towns
+        items:
+          - { title: "Magnolia, TX", url: /service-areas/magnolia-tx/ }
+          - { title: "Pinehurst, TX", url: /service-areas/pinehurst-tx/ }
+          - { title: "Montgomery, TX", url: /service-areas/montgomery-tx/ }
       - title: Magnolia HOA Communities
         items:
           - { title: Audubon, url: /neighborhoods/audubon/ }
@@ -67,6 +83,7 @@ main:
           - { title: Magnolia Ridge, url: /neighborhoods/magnolia-ridge/ }
           - { title: Mostyn Manor, url: /neighborhoods/mostyn-manor/ }
           - { title: North Grove, url: /neighborhoods/north-grove/ }
+          - { title: Ranch Crest, url: /neighborhoods/ranch-crest/ }
           - { title: Westwood, url: /neighborhoods/westwood/ }
           - { title: Woodland Oaks, url: /neighborhoods/woodland-oaks/ }
       - title: Magnolia Acreage Communities
@@ -76,8 +93,6 @@ main:
           - { title: High Meadow Ranch, url: /neighborhoods/high-meadow-ranch/ }
           - { title: Indigo Lake Estates, url: /neighborhoods/indigo-lake-estates/ }
           - { title: Lake Windcrest, url: /neighborhoods/lake-windcrest/ }
-          - { title: Ranch Crest, url: /neighborhoods/ranch-crest/ }
-          - { title: Saddle Creek Forest, url: /neighborhoods/saddle-creek-forest/ }
           - { title: Thousand Oaks, url: /neighborhoods/thousand-oaks/ }
           - { title: Wildwood Estates, url: /neighborhoods/wildwood-estates/ }
       - title: Montgomery & Lake Conroe
@@ -92,6 +107,17 @@ main:
 
   - title: About
     url: /about/
+    children:
+      - title: Our Process
+        url: /process/
+      - title: Pricing Guide
+        url: /pricing-guide/
+      - title: Financing
+        url: /financing/
+      - title: Warranty
+        url: /warranty/
+      - title: As Seen on HGTV
+        url: /as-seen-on-hgtv/
 
   - title: FAQ
     url: /faq/
