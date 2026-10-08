@@ -817,8 +817,8 @@ img { max-width: 100%; height: auto; }
   /* mega menu centers under the whole bar */
   .site-nav76 .has-mega76 { position: static; }
   .site-nav76 .mega76 {
-    left: 50%; transform: translateX(-50%); width: min(880px, calc(100vw - 40px));
-    padding: 18px 14px 10px; grid-template-columns: repeat(3, 1fr); gap: 4px 18px;
+    left: 50%; transform: translateX(-50%); width: min(1040px, calc(100vw - 40px));
+    padding: 18px 14px 10px; grid-template-columns: repeat(4, 1fr); gap: 4px 18px;
   }
   .site-nav76 .mega76 a { padding: 6px 12px; border-radius: 6px; }
   .site-nav76 .mega76-all {
