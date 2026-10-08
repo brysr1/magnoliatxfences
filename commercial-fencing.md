@@ -49,4 +49,6 @@ permalink: /commercial-fencing/
 </ul>
 </section>
 
+<p style="margin-top:28px">Related: <a href="/security-fencing/">Security fencing</a> &middot; <a href="/dumpster-enclosures/">Dumpster enclosures</a> &middot; <a href="/fence-styles/gates/">Gates &amp; openers</a></p>
+
 {% include cta.html heading="Need a fence for your business?" text="Call (281) 292-1897 or book a site visit and we'll put together a written quote." %}

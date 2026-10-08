@@ -50,4 +50,6 @@ permalink: /residential-fencing/
 </ul>
 </section>
 
+<p style="margin-top:28px">Related: <a href="/fence-styles/pet/">Pet &amp; dog fences</a> &middot; <a href="/fence-styles/gates/">Gates &amp; openers</a> &middot; <a href="/fence-staining-power-washing/">Staining &amp; power washing</a> &middot; <a href="/pricing-guide/">Pricing guide</a></p>
+
 {% include cta.html heading="Planning a new fence for your home?" text="Call or text (281) 292-1897, or book a free on-site estimate and we'll measure your yard." %}

@@ -49,4 +49,6 @@ permalink: /maintenance-repair/
 </ul>
 </section>
 
+<p style="margin-top:28px">Fence just faded or dirty? See <a href="/fence-staining-power-washing/">staining, painting &amp; power washing</a>. Also: <a href="/warranty/">our workmanship warranty</a>.</p>
+
 {% include cta.html heading="Fence damaged or leaning?" text="Call or text (281) 292-1897 with a photo, or book a free on-site estimate." %}
