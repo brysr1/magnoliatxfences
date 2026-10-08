@@ -60,6 +60,19 @@ Heavy clay soil, long wet spells, and summer heat are hard on fences. We set pos
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in North Grove</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>NorthGrove covers about 600 acres, with Toll Brothers' Villa (50-foot homesites) and Select (60-foot homesites) collections among its newer homes. The typical lot is around 8,000 sq ft, and most homes date from the 2020s.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>NorthGrove has a homeowners' association. Check its architectural requirements before building or changing a fence; we'll match your section's existing fence style and help with any application.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes we've looked at are zoned to Cedric C. Smith Elementary, Bear Branch Junior High, and Magnolia High School. Check Magnolia ISD for your address.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>More than 200 acres of NorthGrove are preserved green space, with lakes, ponds, and stands of cedar, pine, and cypress.</p><p>Lots that back to green space or water often call for open or semi-privacy fencing on the back line, depending on HOA rules.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>North Grove fence questions</h2>
 <div class="faq76">

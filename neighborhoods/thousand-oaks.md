@@ -66,6 +66,19 @@ Wind, falling limbs, and livestock pressure wear on any fence. We repair broken 
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Thousand Oaks</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Thousand Oaks has about 360 homes on lots averaging about an acre, built mostly from 2000 onward across four recorded sections (1999 to 2006). Some lots front the community's lakes.</p><p>The Thousand Oaks POA has recorded lake rules and boat registration as well as ACC Residential Guidelines.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Fences go through the Thousand Oaks Architectural Control Committee under its recorded ACC Residential Guidelines. We'll build to those guidelines and help with your submission.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes we've looked at are zoned to Magnolia Parkway Elementary and Magnolia High School.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>On lakefront lots, open fencing toward the water usually works best and keeps the view.</p><p>Acre lots mean longer runs and often a drive gate.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Thousand Oaks fence questions</h2>
 <div class="faq76">

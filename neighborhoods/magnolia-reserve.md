@@ -64,6 +64,19 @@ We repair leaning posts, broken or rotted pickets, storm damage, and gates that 
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Magnolia Reserve</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Magnolia Reserve's half-acre homesites were built by Terrata Homes (LGI Homes' luxury brand), with seven one- and two-story plans of about 2,600 to 4,100 sq ft. Construction started around 2017, and a new section opened in 2020.</p><p>Streets include Magnolia Reserve Loop, Hidden Bend Loop, Lady Bird Ln, Old Pines Ln, Tree Top Pl, and Council Oak Ct. The builder notes the community has no MUD tax.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Magnolia Reserve is deed restricted, so check your HOA's requirements before building or changing a fence. We'll help put together what the board asks for.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes here are zoned to Magnolia Parkway Elementary, Magnolia Parkway Junior High, and Magnolia High School.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>The builder describes wooded views and rolling terrain, and some lots back to wooded green space. Sloped lots need the fence stepped or racked to follow the ground.</p><p>The community has a pond, trail, and fenced dog park.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Magnolia Reserve fence questions</h2>
 <div class="faq76">

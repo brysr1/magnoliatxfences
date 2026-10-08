@@ -19,7 +19,8 @@ permalink: /service-areas/montgomery-tx/
 <div class="prose76">
 <h2>About Montgomery</h2>
 <p>Montgomery is one of the oldest towns in the area. It was founded in 1837, incorporated in 1848, and served as the first county seat of Montgomery County until Conroe took that role in 1889. The city calls itself the &ldquo;Birthplace of the Texas Flag.&rdquo; It sits at the junction of SH 105 and FM 149, near Lake Conroe, and counted 1,948 residents in the 2020 census.</p>
-<p>Around the town are some of the area's best-known lake and golf communities, including Bentwater, April Sound, Walden on Lake Conroe, Grand Harbor, and Cape Conroe, plus master-planned Woodforest. Most of the area is in Montgomery ISD.</p>
+<p>The town's history is easy to find: Fernland Historical Park on Clepper St displays pre- and post-Civil War log cabins, the 1845 Arnold-Simonton House is on the National Register, and the town's 1844 public well still sits inside a stone fence on College St.</p>
+<p>Around the town are some of the area's best-known lake and golf communities, including Bentwater, April Sound, Walden on Lake Conroe, Grand Harbor, and Cape Conroe, plus master-planned Woodforest. Most nearby homes are in Montgomery ISD, though some communities, including parts of Woodforest and Carriage Hills, are in Conroe ISD.</p>
 </div>
 </section>
 
@@ -49,7 +50,7 @@ permalink: /service-areas/montgomery-tx/
 </div>
 <div>
 <h2>Permits</h2>
-<p>The City of Montgomery lists fences among the projects that require a city permit, so addresses inside city limits need one; the city's Building &amp; Permitting office can confirm details. Many addresses around Lake Conroe are outside city limits in unincorporated county, where a typical residential fence usually doesn't need a county permit, but POA or architectural approval still applies. We confirm which rules apply before we quote.</p>
+<p>The City of Montgomery lists fences among the projects that require a city permit, so addresses inside city limits need one; the city's Building &amp; Permitting office can confirm details. The city's FAQ also reminds residents to call 811 before installing a fence. Many addresses around Lake Conroe are outside Montgomery's city limits, either in unincorporated county, where a typical residential fence usually doesn't need a county permit, or, like April Sound, inside the City of Conroe. POA or architectural approval still applies. We confirm which rules apply before we quote.</p>
 <p>We request Texas 811 utility locates before any digging.</p>
 </div>
 </div>

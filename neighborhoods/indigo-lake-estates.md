@@ -66,6 +66,19 @@ Falling branches, high winds, and pressure from animals can take a fence line do
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Indigo Lake Estates</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Indigo Lake Estates homes were built mostly from 1995 to 2008, on wooded lots with a median of about 2.25 acres, around a private 160-acre lake with a waterfront park.</p><p>The community has equestrian trails, and its deed restrictions allow horses.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Indigo Lake Estates is deed restricted, including rules on keeping horses. Confirm your section's fence and animal rules before building pasture fencing.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes here are zoned to Nichols Sawmill Elementary, Magnolia Intermediate, Magnolia Junior High, and Magnolia West High School.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>Horse property needs horse-safe fencing: no-climb wire, pipe or wood rail, and wide pasture gates.</p><p>If any part of the fence line falls in a mapped 100-year floodplain, Montgomery County's floodplain rules can require a development permit, though a three-strand barbed wire fence is specifically exempt. We check the floodplain map for your lot before we quote.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Indigo Lake Estates fence questions</h2>
 <div class="faq76">

@@ -64,6 +64,19 @@ We know Magnolia's soil, weather, and neighborhoods. You'll get a clear written 
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Magnolia Ridge</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Magnolia Ridge has around 400 single-family homes, most built since the mid-2010s, on lots of about 7,000 sq ft. Lennar and M/I Homes have built here, with brick, stone, and stucco elevations.</p><p>Streets include Country Crossing Cir, Piney Pathway, Reese Ravine Ln, and Shadow Springs Trl, just off Tomball Parkway (SH 249).</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Magnolia Ridge has a homeowners' association (the Homeowners Association at Magnolia Ridge). Check its architectural requirements before you replace or extend a fence.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes here are zoned to Willie E. Williams Elementary and Magnolia West High School; junior high assignments vary, so check Magnolia ISD for your address.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>Lots are compact, so side-yard runs, shared fence lines, and gate placement are the main planning points.</p><p>Some sections back to greenbelts or ponds; one recent listing even had a pond on the lot.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Magnolia Ridge fence questions</h2>
 <div class="faq76">

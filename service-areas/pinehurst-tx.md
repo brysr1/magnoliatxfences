@@ -18,7 +18,7 @@ permalink: /service-areas/pinehurst-tx/
 <section class="section76">
 <div class="prose76">
 <h2>About Pinehurst</h2>
-<p>Pinehurst is an unincorporated community along SH 249 in south Montgomery County, just south of Magnolia. It has no city government; county government handles local matters. The area was known as Prairie Home and Hunter's Retreat before taking the name Pinehurst in 1904, and it counted 5,195 residents in the 2020 census.</p>
+<p>Pinehurst is an unincorporated community where SH 249, FM 149, and FM 1774 meet, about 17 miles southwest of Conroe and 4.5 miles north of the Harris County line. It has no city government; county government handles local matters. The area was known as Prairie Home and Hunter's Retreat before taking the name Pinehurst in 1904, and it counted 5,195 residents in the 2020 census.</p>
 <p>Much of Pinehurst's growth has come through master-planned development such as Woodtrace, near SH 249 and the Grand Parkway, alongside older neighborhoods and larger lots nearby. Pinehurst is split between Magnolia ISD and Tomball ISD.</p>
 </div>
 </section>

@@ -65,6 +65,19 @@ Lake humidity and wind are tough on fences. We repair rusting iron, loose panels
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in Grand Harbor</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>Grand Harbor has about 700 homesites, mostly a half acre or more, dating back to 1972, with homes of about 2,400 to 5,300 sq ft and a 10-acre inland park.</p><p>Lake-side lots have open-water frontage, while canal-side lots sit on canals that lead out to the main lake.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Grand Harbor's POA has an Architectural Control Committee and recorded deed restrictions by section. Plan on ACC approval before any fence or pool barrier.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes here are zoned to Madeley Ranch Elementary and Montgomery High School in Montgomery ISD.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>On lakefront lots, the San Jacinto River Authority's Lake Conroe rules treat land up to the 201-foot (MSL) contour as Authority Land, and any permanent structure placed there needs an SJRA permit. Before setting posts near the water, we confirm where your property line and that contour fall.</p><p>Canal and open-water lots both benefit from open fencing that keeps the water in view.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>Grand Harbor fence questions</h2>
 <div class="faq76">

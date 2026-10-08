@@ -66,6 +66,19 @@ Storms, falling limbs, and everyday wear can damage any fence. We replace broken
 </div>
 </section>
 
+<section class="section76-alt full-bleed76 local-detail76">
+<div class="inner76">
+<h2>Before you fence in High Meadow Ranch</h2>
+<div class="cards76">
+<div class="card76"><div class="card76-body"><h3>Homes and lots</h3><p>High Meadow Ranch has about 570 homes on lots with a median of roughly 2 acres, many wooded, built mostly from the early 2000s. The 18-hole, par-72 High Meadow Ranch Golf Club opened in 1999.</p><p>Amenities include nature trails, a nature reserve, a baseball field, and trails used for horseback riding.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>HOA and fence rules</h3><p>Check whether your section of High Meadow Ranch has deed restrictions or architectural requirements before building; we'll help with any approval needed.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Schools</h3><p>Homes we've looked at are zoned to Magnolia Elementary, Magnolia Junior High, and Magnolia West High School.</p></div></div>
+<div class="card76"><div class="card76-body"><h3>Site considerations</h3><p>Two-acre wooded lots often get privacy fencing near the house and rail or wire fencing along the rest of the line.</p><p>Golf-course lots usually call for open fencing that keeps the view.</p></div></div>
+</div>
+<p class="note76">Rules are summarized from published HOA documents and recorded deed restrictions and can change. We confirm the current requirements for your lot before we quote.</p>
+</div>
+</section>
+
 <section class="section76 local-faq76">
 <h2>High Meadow Ranch fence questions</h2>
 <div class="faq76">
