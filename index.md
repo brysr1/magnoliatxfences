@@ -17,6 +17,8 @@ description: Fence installation and repair for Magnolia, Pinehurst, the town of 
 </div>
 </section>
 
+{% include trust.html %}
+
 <section class="section76">
 <h2>What We Build</h2>
 <p class="section-intro76">Every property out here is a little different. A quarter-acre lot in a master-planned neighborhood, a lakefront home in a gated community, and five acres off a county road all need different fences. We build all three.</p>

@@ -13,6 +13,8 @@ permalink: /maintenance-repair/
 </div>
 </section>
 
+{% include trust.html %}
+
 <section class="section76">
 <div class="prose76">
 <h2>Why fences fail out here</h2>

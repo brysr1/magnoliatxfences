@@ -13,6 +13,8 @@ permalink: /acreage-ranch-fencing/
 </div>
 </section>
 
+{% include trust.html %}
+
 <section class="section76">
 <div class="prose76">
 <h2>Fencing for land, not just lots</h2>

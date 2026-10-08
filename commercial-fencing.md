@@ -13,6 +13,8 @@ permalink: /commercial-fencing/
 </div>
 </section>
 
+{% include trust.html %}
+
 <section class="section76">
 <div class="prose76">
 <h2>Fencing that works as hard as your business</h2>
