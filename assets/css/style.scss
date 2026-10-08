@@ -762,8 +762,16 @@ img { max-width: 100%; height: auto; }
 .sub-toggle76:focus-visible { outline: 2px solid #d9c7a3; outline-offset: 2px; border-radius: 4px; }
 .has-sub76.is-open > .sub-toggle76 span { transform: translateY(2px) rotate(-135deg); }
 
+/* heading-only parent (no page of its own), styled like the other menu links */
+.nav-heading76 {
+  display: block; padding: 10px 12px; color: #f2efe6; font-size: 0.95rem;
+  border-bottom: 3px solid transparent; cursor: pointer; user-select: none;
+}
+.has-sub76:hover > .nav-heading76 { color: #fff; border-bottom-color: #d9c7a3; }
+
 /* highlight the top-level item when you're anywhere in its section */
-.site-nav76 .is-section76 > a { color: #fff; border-bottom-color: var(--cedar); }
+.site-nav76 .is-section76 > a,
+.site-nav76 .is-section76 > .nav-heading76 { color: #fff; border-bottom-color: var(--cedar); }
 
 /* panels (reset the flex rules the top-level ul applies) */
 .site-nav76 .sub76,
@@ -819,7 +827,9 @@ img { max-width: 100%; height: auto; }
   /* keep the open menu scrollable above the bottom Call/Text/Book bar */
   .site-nav76.is-open { max-height: calc(100vh - 140px); max-height: calc(100dvh - 140px); overflow-y: auto; overscroll-behavior: contain; }
   .site-nav76 > ul > li { flex-wrap: wrap; }
-  .site-nav76 > ul > li > a { flex: 1; }
+  .site-nav76 > ul > li > a,
+  .site-nav76 > ul > li > .nav-heading76 { flex: 1; }
+  .nav-heading76 { padding: 12px 20px; border-bottom: 1px solid rgba(255,255,255,0.1); font-size: 1.05rem; }
   .sub-toggle76 {
     width: 56px; height: auto; align-self: stretch; margin: 0;
     border-bottom: 1px solid rgba(255,255,255,.1); border-left: 1px solid rgba(255,255,255,.1);
@@ -833,5 +843,6 @@ img { max-width: 100%; height: auto; }
   .site-nav76 .mega76 a { padding: 11px 20px 11px 36px; font-size: 1rem; border-bottom: 0; }
   .mega76-col { padding-top: 8px; }
   .mega76-title { padding: 4px 20px 2px 36px; }
-  .site-nav76 .is-section76 > a { border-bottom-color: rgba(255,255,255,.1); }
+  .site-nav76 .is-section76 > a,
+  .site-nav76 .is-section76 > .nav-heading76 { border-bottom-color: rgba(255,255,255,.1); }
 }

@@ -1,20 +1,22 @@
 # Main header menu. Items with `children` get a simple dropdown;
 # items with `groups` get a multi-column mega menu.
+# Leave out `url` to make a heading-only parent (e.g. Services).
 # `match` = extra URL prefix that should highlight the top-level item.
 main:
   - title: Home
     url: /
 
-  - title: Residential Fencing
-    url: /residential-fencing/
+  # No url: "Services" is a heading only, not a page link.
+  - title: Services
     children:
+      - title: Residential Fencing
+        url: /residential-fencing/
+      - title: Commercial Fencing
+        url: /commercial-fencing/
       - title: Acreage & Ranch Fencing
         url: /acreage-ranch-fencing/
       - title: Fence Repair & Maintenance
         url: /maintenance-repair/
-
-  - title: Commercial Fencing
-    url: /commercial-fencing/
 
   - title: HOA Fencing
     url: /hoa-fencing/
