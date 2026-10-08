@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Request a Free Fence Quote — Magnolia, TX
+description: Request a free fence estimate from 76 Fence of Magnolia. Call or text (281) 292-1897, book online, or send a message. 41040 Community Rd, Magnolia, TX 77354.
 permalink: /contact/
 ---
 

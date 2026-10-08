@@ -5,6 +5,8 @@ description: Fence installation and repair in Carriage Hills, Montgomery, TX —
 permalink: /neighborhoods/carriage-hills/
 ---
 
+{% include trust.html %}
+
 Carriage Hills is a neighborhood in unincorporated Montgomery County with a Montgomery, TX 77384 address and a relatively light HOA. It's part of the broader Montgomery and Lake Conroe service area that 76 Fence of Magnolia covers in addition to Magnolia and Pinehurst. We install and repair fences for homeowners in Carriage Hills that fit community expectations, look great from the street, and stand up to Southeast Texas weather.
 
 ## Fencing Within Community Guidelines
@@ -31,6 +33,14 @@ Montgomery County's clay soils and heavy rains are hard on fence posts. We set p
 
 From leaning sections and broken pickets to storm damage and sagging gates, we handle repairs of every size. When replacement is the better option, we'll explain why and quote a new fence that suits your home.
 
+<section class="section76">
+<div class="prose76">
+<h2>About Carriage Hills</h2>
+<p>Carriage Hills is off FM 1488 and Carriage Hills Blvd, next to W.G. Jones State Forest, with lots from about a half acre to 10 acres. It's in unincorporated Montgomery County and Conroe ISD, and residents have Welch Park's pool and tennis courts.</p>
+<p>With lots from a half acre to 10 acres, jobs here range from backyard privacy fences to long property-line runs with drive gates.</p>
+</div>
+</section>
+
 <section class="section76-alt full-bleed76">
 <div class="inner76">
 <h2>Carriage Hills at a glance</h2>
@@ -54,6 +64,21 @@ From leaning sections and broken pickets to storm damage and sagging gates, we h
 <div class="card76"><div class="card76-body"><h3>Practical enclosures</h3><p>Chain link for dog runs and back property lines where guidelines allow.</p><a class="card76-link" href="/materials/chain-link/">Learn more &rarr;</a></div></div>
 </div>
 </section>
+
+<section class="section76 local-faq76">
+<h2>Carriage Hills fence questions</h2>
+<div class="faq76">
+<details><summary>Do I need approval for a fence in Carriage Hills?</summary><div class="answer76"><p>Plan on checking with your HOA. Carriage Hills has neighborhood guidelines that address fences, and we'll help you put together what the HOA asks for.</p></div></details>
+<details><summary>Do I need a permit?</summary><div class="answer76"><p>In unincorporated Montgomery County, a typical residential fence usually doesn't need a county building permit, but HOA rules still apply. We confirm what applies to your address before we quote.</p></div></details>
+<details><summary>Can you add a drive gate or automatic opener?</summary><div class="answer76"><p>Yes. We build single and double drive gates and install solar or wired automatic openers, sized for your driveway and how you use it.</p></div></details>
+<details><summary>Do you serve Carriage Hills?</summary><div class="answer76"><p>Yes. We're based at 41040 Community Rd in Magnolia and work throughout Carriage Hills and the surrounding area. Call (281) 292-1897 to confirm your address or book a free estimate.</p></div></details>
+</div>
+<p style="margin-top:14px"><a href="/faq/">More fence questions &rarr;</a></p>
+</section>
+
+<script type="application/ld+json">
+{"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [{"@type": "Question", "name": "Do I need approval for a fence in Carriage Hills?", "acceptedAnswer": {"@type": "Answer", "text": "Plan on checking with your HOA. Carriage Hills has neighborhood guidelines that address fences, and we'll help you put together what the HOA asks for."}}, {"@type": "Question", "name": "Do I need a permit?", "acceptedAnswer": {"@type": "Answer", "text": "In unincorporated Montgomery County, a typical residential fence usually doesn't need a county building permit, but HOA rules still apply. We confirm what applies to your address before we quote."}}, {"@type": "Question", "name": "Can you add a drive gate or automatic opener?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We build single and double drive gates and install solar or wired automatic openers, sized for your driveway and how you use it."}}, {"@type": "Question", "name": "Do you serve Carriage Hills?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. We're based at 41040 Community Rd in Magnolia and work throughout Carriage Hills and the surrounding area. Call (281) 292-1897 to confirm your address or book a free estimate."}}]}
+</script>
 
 ## Get a Free Fence Estimate
 

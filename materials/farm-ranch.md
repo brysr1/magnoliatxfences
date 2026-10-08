@@ -44,8 +44,6 @@ permalink: /materials/farm-ranch/
 <li><a href="/neighborhoods/clear-creek-forest/">Clear Creek Forest</a></li>
 <li><a href="/neighborhoods/thousand-oaks/">Thousand Oaks</a></li>
 <li><a href="/neighborhoods/indigo-lake-estates/">Indigo Lake Estates</a></li>
-<li><a href="/neighborhoods/saddle-creek-forest/">Saddle Creek Forest</a></li>
-<li><a href="/neighborhoods/ranch-crest/">Ranch Crest</a></li>
 <li><a href="/neighborhoods/wildwood-estates/">Wildwood Estates</a></li>
 </ul>
 <h3>Related styles and services</h3>

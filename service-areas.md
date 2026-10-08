@@ -10,6 +10,15 @@ permalink: /service-areas/
 </div>
 
 <div class="area-group76">
+<h2>Towns we serve</h2>
+<ul class="chips76">
+<li><a href="/service-areas/magnolia-tx/">Magnolia, TX</a></li>
+<li><a href="/service-areas/pinehurst-tx/">Pinehurst, TX</a></li>
+<li><a href="/service-areas/montgomery-tx/">Montgomery, TX &amp; Lake Conroe</a></li>
+</ul>
+</div>
+
+<div class="area-group76">
 <h2>Magnolia &amp; Pinehurst</h2>
 <h3>HOA Communities</h3>
 <ul class="chips76">
@@ -19,6 +28,7 @@ permalink: /service-areas/
 <li><a href="/neighborhoods/magnolia-ridge/">Magnolia Ridge</a></li>
 <li><a href="/neighborhoods/mostyn-manor/">Mostyn Manor</a></li>
 <li><a href="/neighborhoods/north-grove/">North Grove</a></li>
+<li><a href="/neighborhoods/ranch-crest/">Ranch Crest</a></li>
 <li><a href="/neighborhoods/westwood/">Westwood</a></li>
 <li><a href="/neighborhoods/woodland-oaks/">Woodland Oaks</a></li>
 </ul>
@@ -29,8 +39,6 @@ permalink: /service-areas/
 <li><a href="/neighborhoods/high-meadow-ranch/">High Meadow Ranch</a></li>
 <li><a href="/neighborhoods/indigo-lake-estates/">Indigo Lake Estates</a></li>
 <li><a href="/neighborhoods/lake-windcrest/">Lake Windcrest</a></li>
-<li><a href="/neighborhoods/ranch-crest/">Ranch Crest</a></li>
-<li><a href="/neighborhoods/saddle-creek-forest/">Saddle Creek Forest</a></li>
 <li><a href="/neighborhoods/thousand-oaks/">Thousand Oaks</a></li>
 <li><a href="/neighborhoods/wildwood-estates/">Wildwood Estates</a></li>
 </ul>
