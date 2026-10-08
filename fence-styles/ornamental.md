@@ -13,6 +13,8 @@ permalink: /fence-styles/ornamental/
 </div>
 </section>
 
+{% include trust.html %}
+
 <section class="section76">
 <div class="prose76">
 <h2>What it looks like</h2>
