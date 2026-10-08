@@ -742,3 +742,96 @@ img { max-width: 100%; height: auto; }
   .trust76-list svg { width: 30px; height: 30px; padding: 6px; }
   .trust76-list strong { font-size: 0.92rem; }
 }
+
+/* ===== Header dropdown menus (append to the end of style.css) ===== */
+
+.site-nav76 > ul { position: relative; }
+.site-nav76 > ul > li { position: relative; display: flex; align-items: center; }
+
+/* caret toggle button */
+.sub-toggle76 {
+  background: transparent; border: 0; color: #f2efe6; cursor: pointer;
+  width: 22px; height: 34px; margin-left: -8px; padding: 0;
+  display: inline-flex; align-items: center; justify-content: center;
+}
+.sub-toggle76 span {
+  width: 7px; height: 7px; border-right: 2px solid currentColor; border-bottom: 2px solid currentColor;
+  transform: translateY(-2px) rotate(45deg); transition: transform .2s;
+}
+.sub-toggle76:hover { color: #fff; }
+.sub-toggle76:focus-visible { outline: 2px solid #d9c7a3; outline-offset: 2px; border-radius: 4px; }
+.has-sub76.is-open > .sub-toggle76 span { transform: translateY(2px) rotate(-135deg); }
+
+/* highlight the top-level item when you're anywhere in its section */
+.site-nav76 .is-section76 > a { color: #fff; border-bottom-color: var(--cedar); }
+
+/* panels (reset the flex rules the top-level ul applies) */
+.site-nav76 .sub76,
+.site-nav76 .mega76 ul { display: block; max-width: none; margin: 0; padding: 0; list-style: none; }
+.site-nav76 .sub76,
+.site-nav76 .mega76 { display: none; }
+
+.site-nav76 .sub76 a,
+.site-nav76 .mega76 a { border-bottom: 0; font-size: .93rem; }
+.site-nav76 .sub76 a:hover,
+.site-nav76 .mega76 a:hover { background: rgba(255,255,255,.08); color: #fff; }
+.site-nav76 .sub76 a[aria-current="page"],
+.site-nav76 .mega76 a[aria-current="page"] { color: #fff; font-weight: 700; box-shadow: inset 3px 0 0 var(--cedar); }
+
+.mega76-title {
+  margin: 0 0 6px; padding: 0 12px; font-size: .75rem; font-weight: 700;
+  letter-spacing: .06em; text-transform: uppercase; color: #d9c7a3;
+}
+.site-nav76 .mega76-all { color: #d9c7a3; font-weight: 700; }
+
+/* ---------- desktop ---------- */
+@media (min-width: 901px) {
+  .site-nav76 .sub76,
+  .site-nav76 .mega76 {
+    position: absolute; top: 100%; z-index: 60;
+    background: var(--green-dark); border-top: 3px solid var(--cedar);
+    border-radius: 0 0 10px 10px; box-shadow: 0 12px 28px rgba(0,0,0,.28);
+  }
+  .site-nav76 .sub76 { left: 0; min-width: 250px; padding: 8px 0; }
+  .site-nav76 .sub76 a { padding: 9px 18px; }
+
+  /* mega menu centers under the whole bar */
+  .site-nav76 .has-mega76 { position: static; }
+  .site-nav76 .mega76 {
+    left: 50%; transform: translateX(-50%); width: min(880px, calc(100vw - 40px));
+    padding: 18px 14px 10px; grid-template-columns: repeat(3, 1fr); gap: 4px 18px;
+  }
+  .site-nav76 .mega76 a { padding: 6px 12px; border-radius: 6px; }
+  .site-nav76 .mega76-all {
+    grid-column: 1 / -1; margin-top: 8px; padding: 10px 12px 4px !important;
+    border-top: 1px solid rgba(255,255,255,.12) !important; border-radius: 0 !important; text-align: right;
+  }
+
+  .has-sub76:hover > .sub76,
+  .has-sub76.is-open > .sub76 { display: block; }
+  .has-mega76:hover > .mega76,
+  .has-mega76.is-open > .mega76 { display: grid; }
+  .has-sub76:hover > .sub-toggle76 span { transform: translateY(2px) rotate(-135deg); }
+}
+
+/* ---------- mobile (inside the hamburger menu) ---------- */
+@media (max-width: 900px) {
+  /* keep the open menu scrollable above the bottom Call/Text/Book bar */
+  .site-nav76.is-open { max-height: calc(100vh - 140px); max-height: calc(100dvh - 140px); overflow-y: auto; overscroll-behavior: contain; }
+  .site-nav76 > ul > li { flex-wrap: wrap; }
+  .site-nav76 > ul > li > a { flex: 1; }
+  .sub-toggle76 {
+    width: 56px; height: auto; align-self: stretch; margin: 0;
+    border-bottom: 1px solid rgba(255,255,255,.1); border-left: 1px solid rgba(255,255,255,.1);
+  }
+  .sub-toggle76 span { width: 9px; height: 9px; }
+  .site-nav76 .sub76,
+  .site-nav76 .mega76 { width: 100%; background: rgba(0,0,0,.14); padding: 6px 0; }
+  .has-sub76.is-open > .sub76,
+  .has-mega76.is-open > .mega76 { display: block; }
+  .site-nav76 .sub76 a,
+  .site-nav76 .mega76 a { padding: 11px 20px 11px 36px; font-size: 1rem; border-bottom: 0; }
+  .mega76-col { padding-top: 8px; }
+  .mega76-title { padding: 4px 20px 2px 36px; }
+  .site-nav76 .is-section76 > a { border-bottom-color: rgba(255,255,255,.1); }
+}

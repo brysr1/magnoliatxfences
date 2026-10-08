@@ -1,0 +1,100 @@
+# Main header menu. Items with `children` get a simple dropdown;
+# items with `groups` get a multi-column mega menu.
+# `match` = extra URL prefix that should highlight the top-level item.
+main:
+  - title: Home
+    url: /
+
+  - title: Residential Fencing
+    url: /residential-fencing/
+    children:
+      - title: Acreage & Ranch Fencing
+        url: /acreage-ranch-fencing/
+      - title: Fence Repair & Maintenance
+        url: /maintenance-repair/
+
+  - title: Commercial Fencing
+    url: /commercial-fencing/
+
+  - title: HOA Fencing
+    url: /hoa-fencing/
+
+  - title: Materials
+    url: /materials/
+    match: /materials/
+    children:
+      - title: Wood & Cedar
+        url: /materials/wood-cedar/
+      - title: Vinyl
+        url: /materials/vinyl/
+      - title: Ornamental Steel & Aluminum
+        url: /materials/ornamental-steel-aluminum/
+      - title: Chain Link
+        url: /materials/chain-link/
+      - title: Composite (Trex)
+        url: /materials/composite-trex/
+      - title: Farm & Ranch
+        url: /materials/farm-ranch/
+
+  - title: Fence Styles
+    url: /fence-styles/
+    match: /fence-styles/
+    children:
+      - title: Privacy
+        url: /fence-styles/privacy/
+      - title: Semi-Privacy
+        url: /fence-styles/semi-privacy/
+      - title: Picket
+        url: /fence-styles/picket/
+      - title: Horizontal & Modern
+        url: /fence-styles/horizontal-modern/
+      - title: Ornamental
+        url: /fence-styles/ornamental/
+      - title: Pool Enclosure
+        url: /fence-styles/pool-enclosure/
+      - title: Split Rail & Post-and-Rail
+        url: /fence-styles/split-rail/
+
+  - title: Service Areas
+    url: /service-areas/
+    match: /neighborhoods/
+    groups:
+      - title: Magnolia HOA Communities
+        items:
+          - { title: Audubon, url: /neighborhoods/audubon/ }
+          - { title: Cimarron Country, url: /neighborhoods/cimarron-country/ }
+          - { title: Magnolia Reserve, url: /neighborhoods/magnolia-reserve/ }
+          - { title: Magnolia Ridge, url: /neighborhoods/magnolia-ridge/ }
+          - { title: Mostyn Manor, url: /neighborhoods/mostyn-manor/ }
+          - { title: North Grove, url: /neighborhoods/north-grove/ }
+          - { title: Westwood, url: /neighborhoods/westwood/ }
+          - { title: Woodland Oaks, url: /neighborhoods/woodland-oaks/ }
+      - title: Magnolia Acreage Communities
+        items:
+          - { title: Clear Creek Forest, url: /neighborhoods/clear-creek-forest/ }
+          - { title: High Meadow Estates, url: /neighborhoods/high-meadow-estates/ }
+          - { title: High Meadow Ranch, url: /neighborhoods/high-meadow-ranch/ }
+          - { title: Indigo Lake Estates, url: /neighborhoods/indigo-lake-estates/ }
+          - { title: Lake Windcrest, url: /neighborhoods/lake-windcrest/ }
+          - { title: Ranch Crest, url: /neighborhoods/ranch-crest/ }
+          - { title: Saddle Creek Forest, url: /neighborhoods/saddle-creek-forest/ }
+          - { title: Thousand Oaks, url: /neighborhoods/thousand-oaks/ }
+          - { title: Wildwood Estates, url: /neighborhoods/wildwood-estates/ }
+      - title: Montgomery & Lake Conroe
+        items:
+          - { title: April Sound, url: /neighborhoods/april-sound/ }
+          - { title: Bentwater, url: /neighborhoods/bentwater/ }
+          - { title: Cape Conroe, url: /neighborhoods/cape-conroe/ }
+          - { title: Grand Harbor, url: /neighborhoods/grand-harbor/ }
+          - { title: Walden on Lake Conroe, url: /neighborhoods/walden-on-lake-conroe/ }
+          - { title: Carriage Hills, url: /neighborhoods/carriage-hills/ }
+          - { title: Woodforest, url: /neighborhoods/woodforest/ }
+
+  - title: About
+    url: /about/
+
+  - title: FAQ
+    url: /faq/
+
+  - title: Contact
+    url: /contact/
