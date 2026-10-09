@@ -5,6 +5,14 @@ description: Fence installation in Grand Harbor, Montgomery, TX — view-friendl
 permalink: /neighborhoods/grand-harbor/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1621438102093-27087c8faaa2?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Grand Harbor, TX</h1>
+<p>Ornamental, pool, and privacy fencing for Grand Harbor&rsquo;s half-acre-plus homesites.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Grand Harbor is a lake community of about 701 homes in the Montgomery and Lake Conroe area, and it's part of the broader service area that 76 Fence of Magnolia covers beyond Magnolia and Pinehurst. Homeowners in Grand Harbor expect a fence to look polished, follow community guidelines, and leave the lake views that drew them here wide open. That's exactly how we approach every project.
