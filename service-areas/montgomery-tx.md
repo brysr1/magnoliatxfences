@@ -5,7 +5,7 @@ description: Fence installation and repair in Montgomery, TX and the west side o
 permalink: /service-areas/montgomery-tx/
 ---
 
-<section class="hero76 hero76-small full-bleed76" style="background-image:url('{{ '/assets/images/residential-hero.jpg' | relative_url }}');">
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1784412955063-a0d202cc60bd?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Service Areas</span>
 <h1>Fence Installation in Montgomery, TX</h1>
