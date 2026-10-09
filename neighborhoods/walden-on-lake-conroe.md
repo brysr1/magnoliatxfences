@@ -5,6 +5,14 @@ description: Fence installation in Walden on Lake Conroe, Montgomery, TX — vie
 permalink: /neighborhoods/walden-on-lake-conroe/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1614658226606-23819ec3a0f3?rect=0,0,5184,1800&auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Walden on Lake Conroe, TX</h1>
+<p>View-friendly ornamental fencing, pool enclosures, and privacy fencing for Walden&rsquo;s lake and golf lots.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Walden on Lake Conroe is a large lake and golf community in Montgomery, TX, with a mix of housing styles and new homes still being built. It's part of the Montgomery and Lake Conroe service area that 76 Fence of Magnolia covers, and we help homeowners in Walden on Lake Conroe plan fences that fit community guidelines, suit their style of home, and keep lake and fairway views open.
