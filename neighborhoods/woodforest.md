@@ -5,6 +5,14 @@ description: Fence installation and repair in Woodforest, Montgomery, TX — pri
 permalink: /neighborhoods/woodforest/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1784593149239-7c0073ea5951?rect=0,1700,3888,3484&auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Woodforest, TX</h1>
+<p>Privacy, ornamental, and pool fencing for Woodforest homes, built to neighborhood guidelines.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Woodforest is a 5,500-home master-planned community in Montgomery, TX, including the Bonterra 55+ section. It's part of the Montgomery and Lake Conroe service area that 76 Fence of Magnolia covers in addition to Magnolia and Pinehurst. We install and repair HOA-compliant fences for homeowners in Woodforest, built to match the community's look and approved the first time.

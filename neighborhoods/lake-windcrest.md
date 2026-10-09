@@ -5,6 +5,14 @@ description: Acreage fencing in Lake Windcrest, Magnolia, TX — perimeter, ranc
 permalink: /neighborhoods/lake-windcrest/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1680176325192-af14f99fa4e1?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Lake Windcrest, TX</h1>
+<p>Ranch, rail, and privacy fencing for Lake Windcrest&rsquo;s wooded one- to five-acre homesites.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Lake Windcrest is one of the Magnolia-area communities where homeowners enjoy larger lots and a more rural pace. Fencing that kind of property calls for a different approach than a standard backyard job. 76 Fence of Magnolia installs perimeter, ranch, livestock, and privacy fencing for acreage properties in Lake Windcrest, built for long runs, varied terrain, and the way you actually use your land.

@@ -5,6 +5,14 @@ description: Fence installation in Bentwater, Montgomery, TX — view-friendly o
 permalink: /neighborhoods/bentwater/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1730749222041-226268a7e2a3?rect=0,1900,4000,1900&auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Bentwater, TX</h1>
+<p>Ornamental fencing that keeps Lake Conroe and fairway views open, plus pool and privacy fencing.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Bentwater sits on the west shore of Lake Conroe in Montgomery, TX, and with roughly 2,955 homes and 54 holes of golf, it's one of the best-known lake and golf communities in the area. Bentwater is part of the broader Montgomery and Lake Conroe service area that 76 Fence of Magnolia covers, and we build fences here that respect the community's upscale look and the views that make lake and fairway living special.

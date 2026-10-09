@@ -5,6 +5,14 @@ description: Acreage fencing in Indigo Lake Estates, Magnolia, TX — perimeter,
 permalink: /neighborhoods/indigo-lake-estates/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1601600939032-24c55125b981?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Indigo Lake Estates, TX</h1>
+<p>Fencing for the wooded acreage lots around Indigo Lake&rsquo;s private 160-acre lake.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Acreage properties in Indigo Lake Estates offer space that suburban lots can't, and fencing that space well takes experience with long fence lines, open ground, and the needs of animals and families alike. 76 Fence of Magnolia builds perimeter, ranch, livestock, and privacy fences for property owners in Indigo Lake Estates and across Magnolia's acreage communities.

@@ -5,6 +5,14 @@ description: Fence installation and repair in Ranch Crest, Magnolia, TX — ceda
 permalink: /neighborhoods/ranch-crest/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1684867430916-ede9dc95eca5?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Ranch Crest, Magnolia, TX</h1>
+<p>Cedar privacy fences, builder-fence replacements, and gates for Ranch Crest homes.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Ranch Crest is a Magnolia subdivision off FM 1774, and despite the name, most homes here sit on typical neighborhood lots rather than acreage. That means the fences that matter most are backyard privacy fences, side-yard gates, and replacements for fences that went up when the homes were built. 76 Fence of Magnolia builds and repairs fences in Ranch Crest that fit the neighborhood's guidelines and hold up to our soil and weather.

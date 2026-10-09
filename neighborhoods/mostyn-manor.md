@@ -5,6 +5,14 @@ description: HOA-compliant fence installation and repair in Mostyn Manor, Magnol
 permalink: /neighborhoods/mostyn-manor/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1776025808938-dec3b01391ea?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Mostyn Manor, TX</h1>
+<p>Just down the road from our office. Fencing for Mostyn Manor&rsquo;s half-acre and wooded lots.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Mostyn Manor is a Magnolia neighborhood where homeowners take pride in a well-kept, consistent streetscape. 76 Fence of Magnolia installs and repairs fences for homeowners in Mostyn Manor with that in mind: fences that meet community guidelines, match the surrounding homes, and hold up to years of Texas heat, wind, and rain.

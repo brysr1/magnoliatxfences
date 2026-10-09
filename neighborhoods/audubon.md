@@ -5,6 +5,14 @@ description: HOA-compliant fence installation and repair in Audubon, Magnolia, T
 permalink: /neighborhoods/audubon/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1786004407149-663ff8b07cc2?rect=0,1600,6000,2400&auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Audubon, TX</h1>
+<p>Privacy, semi-privacy, and ornamental fencing for Audubon&rsquo;s Creekside, Audubon Park, and Heron Run districts, built to HOA guidelines.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Audubon is one of Magnolia's newer master-planned neighborhoods, and like most planned communities, it comes with design guidelines that shape what a fence can look like. 76 Fence of Magnolia builds fences for homeowners in Audubon that look like they belong on the street, meet community standards, and stand up to Southeast Texas weather for years.

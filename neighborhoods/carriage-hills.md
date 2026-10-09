@@ -5,6 +5,14 @@ description: Fence installation and repair in Carriage Hills, Montgomery, TX —
 permalink: /neighborhoods/carriage-hills/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1788295872460-ffd18dd926a1?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Carriage Hills, TX</h1>
+<p>Privacy, ornamental, and pool fencing for Carriage Hills&rsquo; wooded custom-home lots.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Carriage Hills is a neighborhood in unincorporated Montgomery County with a Montgomery, TX 77384 address and a relatively light HOA. It's part of the broader Montgomery and Lake Conroe service area that 76 Fence of Magnolia covers in addition to Magnolia and Pinehurst. We install and repair fences for homeowners in Carriage Hills that fit community expectations, look great from the street, and stand up to Southeast Texas weather.

@@ -5,6 +5,14 @@ description: Acreage fencing in High Meadow Ranch, Magnolia, TX — perimeter, r
 permalink: /neighborhoods/high-meadow-ranch/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1621271654319-5e78a0f48756?rect=0,1300,5559,2265&auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in High Meadow Ranch, TX</h1>
+<p>Fencing for High Meadow Ranch&rsquo;s wooded, roughly two-acre lots and golf-course homes.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Larger lots and open space are a big part of the appeal of High Meadow Ranch, and the right fence makes that space more useful, more private, and more secure. 76 Fence of Magnolia installs perimeter, ranch, livestock, and privacy fencing for properties in High Meadow Ranch and the surrounding Magnolia acreage communities.

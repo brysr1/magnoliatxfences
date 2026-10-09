@@ -5,6 +5,14 @@ description: Acreage fencing in Thousand Oaks, Magnolia, TX — perimeter, ranch
 permalink: /neighborhoods/thousand-oaks/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1704816288191-f56fbfec2fd8?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Thousand Oaks, TX</h1>
+<p>Perimeter, ranch, and privacy fencing for Thousand Oaks&rsquo; one-acre lots, including lakefront homesites.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Thousand Oaks offers the kind of room to breathe that draws people to the Magnolia area: larger lots, mature trees, and space for animals, shops, and outdoor projects. 76 Fence of Magnolia helps acreage owners in Thousand Oaks fence that land the right way, with perimeter, ranch, livestock, and privacy fencing designed for multi-acre properties.

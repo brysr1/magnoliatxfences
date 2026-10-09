@@ -5,6 +5,14 @@ description: Acreage fencing in Clear Creek Forest, Magnolia, TX — perimeter, 
 permalink: /neighborhoods/clear-creek-forest/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1745013282024-2421206751ea?rect=0,1600,6000,2400&auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Clear Creek Forest, TX</h1>
+<p>Perimeter, ranch, and privacy fencing for the Montgomery County sections of Clear Creek Forest.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Clear Creek Forest is known for wooded acreage lots, and fencing property like this takes planning. Long fence lines run through trees, around drainage, and across uneven ground. 76 Fence of Magnolia installs perimeter, livestock, and privacy fencing for acreage properties in Clear Creek Forest, built to work with the land rather than against it.

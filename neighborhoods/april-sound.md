@@ -5,6 +5,14 @@ description: Fence installation in April Sound, Montgomery, TX — view-friendly
 permalink: /neighborhoods/april-sound/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1730749219049-b5c5fef792ba?rect=0,2400,4000,1700&auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in April Sound, TX</h1>
+<p>View-friendly ornamental fencing, pool enclosures, and privacy fencing for April Sound&rsquo;s lake and golf lots.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 April Sound is an established lake and golf community on the southern shore of Lake Conroe in Montgomery, TX, home to roughly 7,000 residents. It's part of the Montgomery and Lake Conroe service area that 76 Fence of Magnolia covers alongside Magnolia and Pinehurst. We build fences for homeowners in April Sound that fit the community's guidelines, protect lake and fairway views, and match the established character of the neighborhood.

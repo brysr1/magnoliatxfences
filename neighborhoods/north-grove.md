@@ -5,6 +5,14 @@ description: HOA-compliant fence installation and repair in North Grove, Magnoli
 permalink: /neighborhoods/north-grove/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1628625251827-77fa98fb34fa?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in North Grove, TX</h1>
+<p>Privacy, semi-privacy, and ornamental fencing for North Grove&rsquo;s newer homes, built to HOA guidelines.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 North Grove is a growing residential community in Magnolia, and homeowners here want fences that look sharp, last a long time, and meet neighborhood standards the first time. 76 Fence of Magnolia designs and installs HOA-compliant fencing for homeowners in North Grove, from first-time backyard enclosures to full replacements of aging builder fences.

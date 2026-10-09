@@ -5,6 +5,14 @@ description: HOA-compliant fence installation and repair in Woodland Oaks, Magno
 permalink: /neighborhoods/woodland-oaks/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1720116981234-59b667e5eb26?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Woodland Oaks, TX</h1>
+<p>Privacy, semi-privacy, and ornamental fencing for Woodland Oaks homes, built to HOA guidelines.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Woodland Oaks is one of the many HOA-governed neighborhoods we serve in the Magnolia area, and homeowners here want a fence that looks good, lasts, and fits community standards. 76 Fence of Magnolia builds and repairs fences for homeowners in Woodland Oaks with a focus on clean workmanship and HOA-compliant design.
