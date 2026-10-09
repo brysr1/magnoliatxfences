@@ -5,6 +5,14 @@ description: HOA-compliant fence installation and repair in Magnolia Ridge, Magn
 permalink: /neighborhoods/magnolia-ridge/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1628625251833-04eeafb7a2db?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Magnolia Ridge, TX</h1>
+<p>Privacy, semi-privacy, and ornamental fencing for Magnolia Ridge homes, built to HOA guidelines.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Magnolia Ridge homeowners want a fence that adds privacy and value without creating headaches with the neighborhood's design rules. 76 Fence of Magnolia builds HOA-compliant fences for homeowners in Magnolia Ridge, planned around your community's guidelines and built to match the look of the homes around you.
