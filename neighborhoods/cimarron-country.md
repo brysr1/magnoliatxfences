@@ -5,6 +5,14 @@ description: HOA-compliant fence installation and repair in Cimarron Country, Ma
 permalink: /neighborhoods/cimarron-country/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1774655762504-5f3a07999cd7?rect=0,1000,4928,1554&auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Cimarron Country, TX</h1>
+<p>Privacy, semi-privacy, and ornamental fencing for Cimarron Country&rsquo;s wooded one- to two-acre homesites.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Cimarron Country homeowners know that a good fence does a lot of work: it keeps kids and pets safe, adds privacy, and contributes to the overall look of the neighborhood. 76 Fence of Magnolia installs and repairs fences in Cimarron Country and across the Magnolia area, designed to meet community guidelines and built to last.
