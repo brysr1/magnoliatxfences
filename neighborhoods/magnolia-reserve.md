@@ -5,6 +5,14 @@ description: HOA-compliant fence installation and repair in Magnolia Reserve, Ma
 permalink: /neighborhoods/magnolia-reserve/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1592595896551-12b371d546d5?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Magnolia Reserve, TX</h1>
+<p>HOA-compliant privacy and ornamental fencing for Magnolia Reserve&rsquo;s half-acre homesites.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Magnolia Reserve is one of the residential communities we serve in the Magnolia area, and homeowners here want fencing that adds privacy and curb appeal while staying within neighborhood guidelines. 76 Fence of Magnolia designs, installs, and repairs HOA-compliant fences for homeowners in Magnolia Reserve, with a focus on doing it right the first time.
