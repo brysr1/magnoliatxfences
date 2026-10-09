@@ -5,7 +5,7 @@ description: Fence installation and repair in Magnolia, TX — cedar privacy, or
 permalink: /service-areas/magnolia-tx/
 ---
 
-<section class="hero76 hero76-small full-bleed76" style="background-image:url('{{ '/assets/images/residential-hero.jpg' | relative_url }}');">
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1774533522525-fb00871e97be?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Service Areas</span>
 <h1>Fence Installation in Magnolia, TX</h1>
