@@ -5,6 +5,14 @@ description: Fence installation in Cape Conroe, Montgomery, TX — view-friendly
 permalink: /neighborhoods/cape-conroe/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1635108201275-f2858f087bd9?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Cape Conroe, TX</h1>
+<p>Ornamental, pool, and privacy fencing for Cape Conroe&rsquo;s waterfront and interior lots.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Cape Conroe is a Lake Conroe community in Montgomery, TX 77356, with a community boat ramp and pool that make lake living easy. It's part of the Montgomery and Lake Conroe service area that 76 Fence of Magnolia covers alongside Magnolia and Pinehurst. We help homeowners in Cape Conroe choose and install fences that fit community guidelines, protect lake views, and hold up to life near the water.
