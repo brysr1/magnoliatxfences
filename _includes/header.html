@@ -19,7 +19,11 @@
         {%- if item.match and page.url contains item.match -%}{%- assign in_section = true -%}{%- endif -%}
         {%- for c in item.children -%}{%- if page.url == c.url -%}{%- assign in_section = true -%}{%- endif -%}{%- endfor -%}
         <li class="{% if has_sub %}has-sub76{% if item.groups %} has-mega76{% endif %}{% endif %}{% if in_section %} is-section76{% endif %}">
+          {%- if item.url %}
           <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+          {%- else %}
+          <span class="nav-heading76">{{ item.title }}</span>
+          {%- endif %}
           {%- if has_sub %}
           <button class="sub-toggle76" type="button" aria-expanded="false" aria-label="Show {{ item.title }} pages"><span aria-hidden="true"></span></button>
           {%- if item.groups %}
@@ -88,6 +92,8 @@
     items.forEach(function (li) {
       var btn = li.querySelector('.sub-toggle76');
       if (!btn) return;
+      var heading = li.querySelector('.nav-heading76');
+      if (heading) heading.addEventListener('click', function () { btn.click(); });
       btn.addEventListener('click', function (e) {
         e.stopPropagation();
         var open = !li.classList.contains('is-open');
