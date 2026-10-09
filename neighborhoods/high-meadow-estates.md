@@ -5,6 +5,14 @@ description: Acreage fencing in High Meadow Estates, Magnolia, TX — perimeter,
 permalink: /neighborhoods/high-meadow-estates/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1675275698293-09d50d7f224d?rect=0,1100,4928,1700&auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in High Meadow Estates, TX</h1>
+<p>Perimeter, ranch, and privacy fencing for High Meadow Estates&rsquo; one-acre-plus homesites.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 High Meadow Estates is acreage country, and fencing a multi-acre lot is a different job than fencing a suburban backyard. 76 Fence of Magnolia builds perimeter, ranch, livestock, and privacy fencing for acreage properties in High Meadow Estates, planned around how you use your land and built to hold up across long runs and open ground.
