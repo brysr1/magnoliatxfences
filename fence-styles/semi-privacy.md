@@ -5,7 +5,7 @@ description: Semi-privacy fences for Magnolia-area homes — shadowbox, lattice-
 permalink: /fence-styles/semi-privacy/
 ---
 
-<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1769831190663-95fe8454d8c9?auto=format&fit=crop&w=1600&q=80');">
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1691821331552-ab4f12500a24?rect=0,250,1770,1200&auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Fence Styles</span>
 <h1>Semi-Privacy Fences</h1>
