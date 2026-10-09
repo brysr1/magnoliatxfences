@@ -5,6 +5,14 @@ description: HOA-compliant fence installation and repair in Westwood, Magnolia, 
 permalink: /neighborhoods/westwood/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1643142778588-12616e342819?rect=0,1100,2400,1800&auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Westwood, TX</h1>
+<p>HOA-compliant fencing for Westwood&rsquo;s half-acre, often wooded lots on both sides of FM 1488.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Homeowners in Westwood want fences that give their families privacy and their pets a safe yard, without running into trouble with neighborhood rules. 76 Fence of Magnolia installs and repairs HOA-compliant fences in Westwood and throughout the Magnolia area, with every project planned around your community's guidelines and the look of the homes around you.
