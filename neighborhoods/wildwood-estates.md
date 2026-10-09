@@ -5,6 +5,14 @@ description: Acreage fencing in Wildwood Estates, Magnolia, TX — perimeter, ra
 permalink: /neighborhoods/wildwood-estates/
 ---
 
+<section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1576692194458-ea3f97b227af?auto=format&fit=crop&w=1600&q=80');">
+<div class="hero76-inner">
+<span class="eyebrow76">Service Areas</span>
+<h1>Fence Installation in Wildwood Estates, TX</h1>
+<p>Pasture, ranch, and perimeter fencing for Wildwood Estates&rsquo; equestrian acreage.</p>
+</div>
+</section>
+
 {% include trust.html %}
 
 Wildwood Estates offers the room and privacy that draw so many families to acreage living around Magnolia. Making the most of that land usually starts with a good fence. 76 Fence of Magnolia builds perimeter, ranch, livestock, and privacy fencing for acreage properties in Wildwood Estates, planned around your property's layout and built to last.
