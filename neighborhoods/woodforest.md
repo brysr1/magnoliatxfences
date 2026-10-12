@@ -65,10 +65,9 @@ We fix leaning posts, broken pickets, storm damage, and gates that drag or won't
 
 <section class="section76">
 <h2>Most requested in Woodforest</h2>
-<div class="cards76 cards76-3">
+<div class="cards76 cards76-2">
 <div class="card76"><div class="card76-body"><h3>Privacy fences</h3><p>Privacy fences that match the neighborhood standard, in <a href="/materials/wood-cedar/">wood &amp; cedar</a> or <a href="/materials/vinyl/">vinyl</a>.</p><a class="card76-link" href="/fence-styles/privacy/">Learn more &rarr;</a></div></div>
 <div class="card76"><div class="card76-body"><h3>Ornamental &amp; pool fences</h3><p>Open <a href="/materials/ornamental-steel-aluminum/">aluminum and steel</a> fencing for pools and front yards.</p><a class="card76-link" href="/fence-styles/ornamental/">Learn more &rarr;</a></div></div>
-<div class="card76"><div class="card76-body"><h3>Practical enclosures</h3><p>Chain link for dog runs and back property lines where guidelines allow.</p><a class="card76-link" href="/materials/chain-link/">Learn more &rarr;</a></div></div>
 </div>
 </section>
 
