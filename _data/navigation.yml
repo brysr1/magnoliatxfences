@@ -122,6 +122,12 @@ main:
 
   - title: FAQ
     url: /faq/
+    match: /faq/
+    children:
+      - title: Fence FAQ
+        url: /faq/
+      - title: Fence Guides & Resources
+        url: /resources/
 
   - title: Contact
     url: /contact/
