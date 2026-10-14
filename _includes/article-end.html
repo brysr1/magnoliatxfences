@@ -1,0 +1,38 @@
+</div>
+</section>
+{%- if page.faqs %}
+
+<section class="section76-alt full-bleed76">
+<div class="inner76">
+<h2>Quick answers</h2>
+<div class="faq76">
+{%- for f in page.faqs %}
+<details><summary>{{ f.q }}</summary><div class="answer76">{{ f.a | markdownify }}</div></details>
+{%- endfor %}
+</div>
+</div>
+</section>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{%- for f in page.faqs -%}{"@type":"Question","name":{{ f.q | jsonify }},"acceptedAnswer":{"@type":"Answer","text":{{ f.a | markdownify | strip_html | strip | jsonify }}}}{%- unless forloop.last -%},{%- endunless -%}{%- endfor -%}]}
+</script>
+{%- endif %}
+{%- if page.related %}
+
+<section class="section76 related76">
+<h2>Keep reading</h2>
+<div class="cards76 cards76-3">
+{%- for r in page.related %}
+{%- assign rp = site.pages | where: "url", r | first %}
+{%- if rp %}
+<div class="card76"><div class="card76-body"><span class="kind76">{% if rp.kind == "faq" %}FAQ{% elsif rp.kind == "article" %}Fence Guide{% else %}Page{% endif %}</span><h3>{{ rp.headline | default: rp.title }}</h3>{% if rp.lede %}<p>{{ rp.lede }}</p>{% endif %}<a class="card76-link" href="{{ rp.url | relative_url }}">Read more &rarr;</a></div></div>
+{%- endif %}
+{%- endfor %}
+</div>
+</section>
+{%- endif %}
+
+{% include cta.html %}
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Article","headline":{{ page.headline | default: page.title | jsonify }},"description":{{ page.description | jsonify }},"datePublished":"{{ page.date | date: '%Y-%m-%d' }}","dateModified":"{{ page.date | date: '%Y-%m-%d' }}","mainEntityOfPage":"{{ page.url | absolute_url }}","author":{"@type":"Organization","name":"76 Fence of Magnolia","url":"{{ '/' | absolute_url }}"},"publisher":{"@type":"Organization","name":"76 Fence of Magnolia","logo":{"@type":"ImageObject","url":"{{ '/assets/images/logo-76-fence.png' | absolute_url }}"}}}
+</script>
