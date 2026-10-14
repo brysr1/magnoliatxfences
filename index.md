@@ -11,8 +11,6 @@ description: Fence installation and repair for Magnolia, Pinehurst, the town of 
 <p>New fences, gates, and repairs built for Montgomery County soil, weather, and HOA rules &mdash; from backyard privacy to multi-acre ranch lines.</p>
 <div class="btn-row76">
 <a class="btn76" href="https://clienthub.getjobber.com/external/organizations/eb745a73-6325-4f89-a162-a3e8115b2874?utm_source=magnoliatxfences&utm_medium=website&utm_campaign=site_booking">Book a Free Estimate</a>
-<a class="btn76 btn76-ghost" href="tel:+12812921897">Call (281) 292-1897</a>
-<a class="btn76 btn76-ghost" href="sms:+12812921897">Text Us</a>
 </div>
 </div>
 </section>
