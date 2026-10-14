@@ -9,6 +9,15 @@ permalink: /faq/
 <p>Straight answers to the questions we hear most from homeowners and landowners around Magnolia, Pinehurst, Montgomery, and Lake Conroe. Don't see yours? Call or text <a href="tel:+12812921897">(281) 292-1897</a>.</p>
 </div>
 
+<section class="section76-alt full-bleed76" id="faq-deep">
+<div class="inner76">
+<span class="kind76">In depth</span>
+<h2>The big questions, one page each</h2>
+<p class="section-intro76">Some answers need more than a paragraph. These pages go further on the questions that shape how a fence gets built around Magnolia and Montgomery. For longer how-to reads, see our <a href="/resources/">fence guides</a>.</p>
+{% include article-list.html kind="faq" topics="Before you build|Materials, weather & lifespan|Hiring a fence company" %}
+</div>
+</section>
+
 <section class="faq-group76">
 <h2>Getting started</h2>
 <div class="faq76">
