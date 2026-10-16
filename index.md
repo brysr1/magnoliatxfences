@@ -113,4 +113,6 @@ description: Fence installation and repair for Magnolia, Pinehurst, the town of 
 </div>
 </section>
 
+{% include testimonials.html %}
+
 {% include cta.html heading="Let's talk about your fence" text="Call or text (281) 292-1897, or book a free on-site estimate online." %}
