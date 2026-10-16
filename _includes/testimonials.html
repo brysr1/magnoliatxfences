@@ -1,0 +1,21 @@
+<section class="section76 reviews76" aria-labelledby="reviews76-title">
+<h2 id="reviews76-title">What Our Customers Say</h2>
+<p class="section-intro76">Five-star Google reviews from homeowners who hired the 76 Fence crew.</p>
+{% assign featured = site.data.testimonials | where: "featured", true | first %}
+{% if featured %}
+<figure class="review76 review76-featured">
+<div class="stars76" role="img" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+<blockquote><p>&ldquo;{{ featured.quote }}&rdquo;</p></blockquote>
+<figcaption><strong>{{ featured.name }}</strong><span>Google review</span></figcaption>
+</figure>
+{% endif %}
+<div class="reviews76-grid">
+{% for r in site.data.testimonials %}{% unless r.featured %}
+<figure class="review76">
+<div class="stars76" role="img" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+<blockquote><p>&ldquo;{{ r.quote }}&rdquo;</p></blockquote>
+<figcaption><strong>{{ r.name }}</strong><span>Google review</span></figcaption>
+</figure>
+{% endunless %}{% endfor %}
+</div>
+</section>
