@@ -7,7 +7,7 @@ kind: faq
 topic: "Hiring a fence company"
 order: 2
 headline: "What should I check before hiring a fence contractor?"
-lede: "Two bids for the same fence can describe very different builds. Use this list to line them up item by item before you sign anything."
+lede: "Two bids for the same fence can describe very different builds. Use this list to line them up side by side before you sign anything."
 date: 2026-10-14
 read: 3
 related:
@@ -16,21 +16,21 @@ related:
   - /warranty/
 faqs:
   - q: "How many quotes should I get?"
-    a: "Two or three is plenty for most fences. More than that tends to blur together unless every bid spells out the same items."
+    a: "Two or three is plenty for most fences. More than that tends to blur together unless you're comparing the same materials and installation standards."
   - q: "Is the lowest bid ever the right one?"
-    a: "It can be, if it lists the same posts, concrete, rails, and hardware as the others. When it doesn't say, ask before you assume. Our [pricing guide](/pricing-guide/) explains what usually separates a low bid from the rest."
+    a: "It can be, if it uses the same quality of materials and the same installation standards: post depth, concrete, rails, and hardware. When a bid doesn't say, ask before you assume. Our [pricing guide](/pricing-guide/) explains what usually separates a low bid from the rest."
   - q: "What if the crew finds something the quote didn't cover?"
     a: "A good contractor stops and talks with you before adding cost. On our jobs, if we hit something like buried concrete or extra footage, we explain it and get your okay first."
 ---
 {% include article-top.html %}
 <div class="callout76">
-<p><strong>Short answer:</strong> Get every bid in writing with the materials, post setting, gates, and tear-out listed line by line. Then compare the paperwork behind it: insurance certificate, warranty terms, who handles 811 and approvals, and when money changes hands.</p>
+<p><strong>Short answer:</strong> Get every bid in writing, then compare what's actually being built: material quality and installation standards like post depth, concrete, and how rails attach. After that, compare the paperwork behind it: insurance certificate, warranty terms, who handles 811 and approvals, and when money changes hands.</p>
 </div>
-<h2>The quote itself</h2>
+<h2>What you're getting</h2>
 <ul>
+<li><strong>Material grade.</strong> Cedar or pressure-treated pine, picket thickness, metal gauge or wall thickness, wire type for pasture fence. This is where a cheaper bid usually saves money.</li>
 <li><strong>Footage and height</strong>, measured on site rather than from an aerial photo, especially on irregular or wooded lots.</li>
-<li><strong>Material grade.</strong> Cedar or pressure-treated pine, picket thickness, metal gauge or wall thickness, wire type for pasture fence.</li>
-<li><strong>Gates</strong> listed separately, with width, framing, hinges, and latches. A 12- or 16-foot drive gate on acreage is a different item from a walk gate.</li>
+<li><strong>Gates</strong> described, with width, framing, hinges, and latches. A 12- or 16-foot drive gate on acreage is a different item from a walk gate.</li>
 <li><strong>Tear-out and haul-off</strong> of the old fence, and whether it's included or extra. On our replacements it's included unless you'd rather do it.</li>
 <li><strong>Cleanup</strong>, including what happens to dirt from the post holes.</li>
 </ul>
