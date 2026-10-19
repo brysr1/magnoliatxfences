@@ -39,7 +39,7 @@ permalink: /residential-fencing/
 <section class="section76">
 <h2>What's included with every residential project</h2>
 <ul class="checklist76">
-<li>On-site measurement and a written, itemized quote</li>
+<li>On-site measurement and a written quote</li>
 <li>Help with HOA or architectural committee approval</li>
 <li>811 utility locates requested before any digging</li>
 <li>Removal and haul-off of your old fence, if you're replacing one</li>

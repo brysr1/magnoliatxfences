@@ -36,7 +36,7 @@ permalink: /about/
 <h2>How we work</h2>
 <ol class="steps76">
 <li><h3>Request an estimate</h3><p>Call, text, or book online. We'll ask a few questions about the property and the goal so the first visit is productive.</p></li>
-<li><h3>Written quote</h3><p>After walking and measuring the line, we send an itemized quote that names the materials, post type, height, and gates &mdash; no vague lump sums.</p></li>
+<li><h3>Written quote</h3><p>After walking and measuring the line, we send a written quote for the fence we talked through, so you know what you're getting.</p></li>
 <li><h3>HOA, 811 &amp; permits</h3><p>We help prepare your HOA or ARC submission, confirm whether a permit applies for your location, and request 811 utility locates.</p></li>
 <li><h3>Installation</h3><p>Posts are set for the soil on your lot, the fence goes up square and plumb, and old fencing and debris are hauled off.</p></li>
 <li><h3>Walkthrough</h3><p>We walk the finished fence together, test every gate and latch, and fix anything that isn't right before we close out the job.</p></li>
