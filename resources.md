@@ -9,15 +9,15 @@ permalink: /resources/
 <div class="hero76-inner">
 <span class="eyebrow76">Fence Guides</span>
 <h1>Fence guides for Magnolia-area properties</h1>
-<p>Longer reads on what we run into on real jobs between Magnolia, Pinehurst, Montgomery, and the west side of Lake Conroe.</p>
+<p>Longer reads on what we run into on real jobs between Magnolia, Pinehurst, Montgomery, and the west side of Lake Conroe, newest first.</p>
 </div>
 </section>
 
 {% include trust.html %}
 
 <section class="section76">
-<p class="section-intro76">Want a quick answer instead? Our <a href="/faq/">FAQ</a> covers permits, 811, property lines, and more, with a full page on each of the big questions.</p>
-{% include article-list.html kind="article" topics="Repairs & upkeep|Choosing a fence|Planning your project|Gates, security & commercial" %}
+<p class="section-intro76">Practical guides from the crew that builds and repairs fences around Magnolia, Pinehurst, and Montgomery. New articles are added regularly. Want a quick answer instead? Our <a href="/faq/">FAQ</a> covers permits, 811, property lines, and more.</p>
+{% include post-feed.html %}
 </section>
 
 {% include cta.html %}
