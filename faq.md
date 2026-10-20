@@ -81,7 +81,7 @@ permalink: /faq/
 <details><summary>What warranty do you offer?</summary><div class="answer76"><p>Every installation is covered by an 18-month limited workmanship warranty, starting the day the project is completed. If a problem comes directly from improper installation by our crew in that window, we&rsquo;ll fix the affected area at no cost. It doesn&rsquo;t cover storms and other weather, normal wear, soil movement, impact damage, tree roots, or misuse, and material warranties come separately from the manufacturer. Full terms are on our <a href="/warranty/">warranty page</a>.</p></div></details>
 <details><summary>Are you insured?</summary><div class="answer76"><p>Yes. We carry general liability and workers&rsquo; compensation insurance on every job.</p></div></details>
 <details><summary>What if something goes wrong after installation?</summary><div class="answer76"><p>Call or text us with a short description and a few photos, and we&rsquo;ll schedule an inspection to see whether it&rsquo;s covered by our workmanship warranty. The most common call is a gate that no longer latches cleanly as new posts settle. That&rsquo;s expected, and we&rsquo;ll come adjust it free of charge.</p></div></details>
-<details><summary>What should I ask before hiring any fence contractor?</summary><div class="answer76"><p>Ask how deep the posts go and how much concrete is in each, how rails are attached, whether they handle HOA paperwork and 811 locates, whether they carry liability and workers&rsquo; comp insurance, and what the warranty covers in writing. Get the materials spelled out on the quote.</p></div></details>
+<details><summary>What should I ask before hiring any fence contractor?</summary><div class="answer76"><p>Ask how deep the posts go and how much concrete is in each, how rails are attached, whether they handle HOA paperwork and 811 locates, whether they carry liability and workers&rsquo; comp insurance, and what the warranty covers in writing. Compare material quality and installation standards, not just the price.</p></div></details>
 </div>
 </section>
 
@@ -383,7 +383,7 @@ permalink: /faq/
    "name": "What should I ask before hiring any fence contractor?",
    "acceptedAnswer": {
     "@type": "Answer",
-    "text": "Ask how deep the posts go and how much concrete is in each, how rails are attached, whether they handle HOA paperwork and 811 locates, whether they carry liability and workers’ comp insurance, and what the warranty covers in writing. Get the materials spelled out on the quote."
+    "text": "Ask how deep the posts go and how much concrete is in each, how rails are attached, whether they handle HOA paperwork and 811 locates, whether they carry liability and workers’ comp insurance, and what the warranty covers in writing. Compare material quality and installation standards, not just the price."
    }
   }
  ]
