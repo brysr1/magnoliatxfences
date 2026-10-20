@@ -106,6 +106,10 @@ main:
           - { title: Carriage Hills, url: /neighborhoods/carriage-hills/ }
           - { title: Woodforest, url: /neighborhoods/woodforest/ }
 
+  - title: Resources
+    url: /resources/
+    match: /resources/
+
   - title: About
     url: /about/
     children:
@@ -123,11 +127,6 @@ main:
   - title: FAQ
     url: /faq/
     match: /faq/
-    children:
-      - title: Fence FAQ
-        url: /faq/
-      - title: Fence Guides & Resources
-        url: /resources/
 
   - title: Contact
     url: /contact/
