@@ -78,7 +78,6 @@ description: Fence installation and repair for Magnolia, Pinehurst, the town of 
 <div><h3>Real materials, built to last</h3><p>We use contractor-grade posts, rails, pickets, and hardware &mdash; not the bargain lumber off a big-box shelf &mdash; and set posts for the clay and sandy soils found across the county.</p></div>
 <div><h3>You talk to the people doing the work</h3><p>No call center. The person who measures your fence line is the person you can call with questions, from the first visit to the final walkthrough.</p></div>
 </div>
-<p class="family76"><strong>Part of the 76 Fence Family.</strong> 76 Fence of Magnolia is the local Magnolia and Pinehurst resource from 76 Fence, the Houston area's trusted fence installation brand, and part of the same local network as <a href="https://northhoustonfence.com">North Houston Fence</a>. For full-service fence installation across greater Houston, visit <a href="https://76fence.com/houston">76fence.com/houston</a>.</p>
 </section>
 
 <section class="section76-alt full-bleed76">

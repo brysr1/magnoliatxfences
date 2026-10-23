@@ -41,7 +41,7 @@ permalink: /about/
 <li><h3>Installation</h3><p>Posts are set for the soil on your lot, the fence goes up square and plumb, and old fencing and debris are hauled off.</p></li>
 <li><h3>Walkthrough</h3><p>We walk the finished fence together, test every gate and latch, and fix anything that isn't right before we close out the job.</p></li>
 </ol>
-<p class="family76"><strong>Part of the 76 Fence Family.</strong> 76 Fence of Magnolia is the local Magnolia and Pinehurst resource from 76 Fence, the Houston area's trusted fence installation brand, and part of the same local network as <a href="https://northhoustonfence.com">North Houston Fence</a>. For full-service fence installation across greater Houston, visit <a href="https://76fence.com/houston">76fence.com/houston</a>.</p>
+<p class="family76"><strong>Part of the 76 Fence Family.</strong> 76 Fence of Magnolia is the local Magnolia and Pinehurst resource from 76 Fence, the Houston area's trusted fence installation brand, and part of the same local network as <a href="https://conroetxfences.com">76 Fence of Conroe</a>, <a href="https://thewoodlandsfences.com">76 Fence of The Woodlands</a>, and <a href="https://northhoustonfence.com">North Houston Fence</a>. For full-service fence installation across greater Houston, visit <a href="https://76fence.com/houston">76fence.com/houston</a>.</p>
 </section>
 
 {% include cta.html heading="Let's walk your fence line" text="Call or text (281) 292-1897, or book a free estimate online." %}
