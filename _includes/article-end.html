@@ -34,5 +34,5 @@
 {% include cta.html %}
 
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"Article","headline":{{ page.headline | default: page.title | jsonify }},"description":{{ page.description | jsonify }},"datePublished":"{{ page.date | date: '%Y-%m-%d' }}","dateModified":"{{ page.date | date: '%Y-%m-%d' }}","mainEntityOfPage":"{{ page.url | absolute_url }}","author":{"@type":"Organization","name":"76 Fence of Magnolia","url":"{{ '/' | absolute_url }}"},"publisher":{"@type":"Organization","name":"76 Fence of Magnolia","logo":{"@type":"ImageObject","url":"{{ '/assets/images/logo-76-fence.png' | absolute_url }}"}}}
+{"@context":"https://schema.org","@type":"Article","headline":{{ page.headline | default: page.title | jsonify }},"description":{{ page.description | jsonify }},{% if page.image %}"image":"{{ page.image | absolute_url }}",{% endif %}"datePublished":"{{ page.date | date: '%Y-%m-%d' }}","dateModified":"{{ page.date | date: '%Y-%m-%d' }}","mainEntityOfPage":"{{ page.url | absolute_url }}","author":{"@type":"Organization","name":"76 Fence of Magnolia","url":"{{ '/' | absolute_url }}"},"publisher":{"@type":"Organization","name":"76 Fence of Magnolia","logo":{"@type":"ImageObject","url":"{{ '/assets/images/logo-76-fence.png' | absolute_url }}"}}}
 </script>

@@ -1,8 +1,10 @@
 {%- comment -%}
-Top of a Resources article or FAQ deep-dive page. Front matter: kind (article|faq), headline, lede, date, read.
+Top of a Resources article or FAQ deep-dive page. Front matter: kind (article|faq), headline, lede, date, read,
+and optionally image (shown as the header photo behind the headline, same as the service-page heroes) and alt.
+Pages without an image keep the plain green header.
 {%- endcomment -%}
 {%- if page.kind == "faq" -%}{%- assign crumb_title = "FAQ" -%}{%- assign crumb_url = "/faq/" -%}{%- else -%}{%- assign crumb_title = "Fence Guides" -%}{%- assign crumb_url = "/resources/" -%}{%- endif -%}
-<section class="hero76 hero76-small full-bleed76">
+<section class="hero76 hero76-small full-bleed76"{% if page.image %} style="background-image:url('{{ page.image | relative_url }}');"{% endif %}>
 <div class="hero76-inner">
 <p class="crumbs76"><a href="{{ '/' | relative_url }}">Home</a> <span>/</span> <a href="{{ crumb_url | relative_url }}">{{ crumb_title }}</a></p>
 <span class="eyebrow76">{% if page.kind == "faq" %}FAQ{% else %}Fence Guide{% endif %}{% if page.read %} &middot; {{ page.read }} min read{% endif %}</span>
