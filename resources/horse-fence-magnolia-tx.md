@@ -11,7 +11,7 @@ lede: "A horse will test a fence in ways a dog or a property line never will. He
 date: 2026-10-27
 read: 4
 image: /assets/images/horse-fence-magnolia-tx.png
-alt: "Chestnut horse standing beside a woven wire horse fence with a wood top rail at the edge of a pine-lined pasture, the kind of horse fence common on Magnolia, TX acreage"
+alt: "Woven wire horse fence with a wood top rail running along a green pasture beside a stand of tall pines, the kind of horse fence common on Magnolia, TX acreage"
 related:
   - /acreage-ranch-fencing/
   - /materials/farm-ranch/
