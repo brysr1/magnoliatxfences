@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Fixing a Leaning Fence Post in Sandy Soil | 76 Fence"
+title: "Fixing a Leaning Fence Post in Sandy Soil"
 description: "Why fence posts lean in Magnolia's sandy ground, how to tell rot from a shallow set or washout, and when to brace, reset, or replace a post."
 permalink: /resources/fix-leaning-fence-post-sandy-soil/
 kind: article

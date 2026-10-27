@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Texas 811 Before a Fence in Magnolia | 76 Fence of Magnolia"
+title: "Texas 811 Before a Fence in Magnolia"
 description: "How Texas 811 utility locates work before a fence goes in around Magnolia, Pinehurst and Lake Conroe: notice timing, the 14-day window, and lines it won't mark."
 permalink: /faq/texas-811/
 kind: faq

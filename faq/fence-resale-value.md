@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Does a Fence Add Resale Value in Magnolia? | 76 Fence of Magnolia"
+title: "Does a Fence Add Resale Value in Magnolia?"
 description: "What buyers expect from a fence in Magnolia subdivisions, on acreage, and on Lake Conroe lake and golf lots, and how to get a fence ready before you list."
 permalink: /faq/fence-resale-value/
 kind: faq

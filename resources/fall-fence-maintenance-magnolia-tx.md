@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Fall Fence Maintenance in Magnolia, TX | 76 Fence of Magnolia"
+title: "Fall Fence Maintenance in Magnolia, TX"
 description: "A fall fence checklist for Magnolia, Pinehurst, and Lake Conroe: clear pine straw, aim sprinklers off the boards, stain in dry weather, and check acreage wire."
 permalink: /resources/fall-fence-maintenance-magnolia-tx/
 kind: article

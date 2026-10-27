@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Fence Contractor Hiring Checklist | 76 Fence of Magnolia"
+title: "Fence Contractor Hiring Checklist"
 description: "Comparing fence bids around Magnolia, Pinehurst and Lake Conroe: what the quote should spell out, post specs, 811, permits, warranty, insurance, payment."
 permalink: /faq/fence-contractor-hiring-checklist/
 kind: faq

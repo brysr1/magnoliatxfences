@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How Long Does a Fence Last? Magnolia, TX | 76 Fence of Magnolia"
+title: "How Long Does a Fence Last? Magnolia, TX"
 description: "Typical fence lifespans around Magnolia and Lake Conroe by material, what wears a fence out first in our climate, and the habits that add years to it."
 permalink: /faq/how-long-does-a-fence-last/
 kind: faq

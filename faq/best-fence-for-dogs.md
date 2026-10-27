@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Best Dog Fence for Magnolia-Area Yards | 76 Fence of Magnolia"
+title: "Best Dog Fence for Magnolia-Area Yards"
 description: "Choosing a dog fence for a Magnolia subdivision yard, Pinehurst acreage, or Lake Conroe view lot: diggers, jumpers, squeezers, barkers, and secure gates."
 permalink: /faq/best-fence-for-dogs/
 kind: faq

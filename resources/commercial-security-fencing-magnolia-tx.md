@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Commercial Security Fencing in Magnolia, TX | 76 Fence"
+title: "Commercial Security Fencing in Magnolia, TX"
 description: "Fencing for FM 1488 and FM 1774 businesses: yards, storage lots, retail, churches, HOA pools, dumpster enclosures, gates, permits, and scheduling."
 permalink: /resources/commercial-security-fencing-magnolia-tx/
 kind: article

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Composite vs. Wood Fence in Magnolia, TX | 76 Fence"
+title: "Composite vs. Wood Fence in Magnolia, TX"
 description: "Composite vs. wood fencing for Magnolia and Lake Conroe homes: installed cost, years of refinishing, heat and humidity, HOA review, and where each one fits."
 permalink: /resources/composite-vs-wood-fence/
 kind: article

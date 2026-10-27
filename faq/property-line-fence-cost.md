@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Who Pays for a Property Line Fence? | 76 Fence of Magnolia"
+title: "Who Pays for a Property Line Fence?"
 description: "Who pays for a fence on the line between neighbors around Magnolia and Montgomery, what Texas Ag Code 143 says about shared fences, and what to put in writing."
 permalink: /faq/property-line-fence-cost/
 kind: faq

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Horse Fence in Magnolia, TX: 6 Things to Get Right | 76 Fence"
+title: "Horse Fence in Magnolia, TX: 6 Things to Get Right"
 description: "Planning a horse fence in Magnolia, TX? Height, mesh size, visibility, corners in sandy ground, gates, and fence-line clearing for Montgomery County acreage."
 permalink: /resources/horse-fence-magnolia-tx/
 kind: article

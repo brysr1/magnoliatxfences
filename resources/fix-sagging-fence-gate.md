@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "How to Fix a Sagging Fence Gate | 76 Fence of Magnolia"
+title: "How to Fix a Sagging Fence Gate"
 description: "Fix a sagging gate in Magnolia or Pinehurst: tell a loose hinge from a racked frame or leaning post, then pick the repair, from anti-sag kits to steel."
 permalink: /resources/fix-sagging-fence-gate/
 kind: article

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Security Fence Types for Magnolia, TX | 76 Fence of Magnolia"
+title: "Security Fence Types for Magnolia, TX"
 description: "Slatted chain link, welded mesh, or ornamental steel? How we match security fences to Magnolia-area shops, yards, acreage, and lake homes, plus gates."
 permalink: /resources/security-fence-types/
 kind: article

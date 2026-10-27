@@ -1,13 +1,14 @@
 ---
 layout: home
-title: Fence Installation in Magnolia, TX
+title: Fence Company in Magnolia, TX
 description: Fence installation and repair for Magnolia, Pinehurst, the town of Montgomery, and the Lake Conroe area. Wood, iron, vinyl, chain link, HOA-compliant and acreage fencing. Call (281) 292-1897.
 ---
 
 <section class="hero76 full-bleed76" style="background-image:url('/assets/images/hero-magnolia-home.jpg');">
 <div class="hero76-inner">
 <span class="eyebrow76">Magnolia &middot; Pinehurst &middot; Montgomery &middot; Lake Conroe</span>
-<h1>Fence Installation in Magnolia, TX and the Lake Conroe Area</h1>
+<h1>Fence Company in Magnolia, TX</h1>
+<p class="sub76">Serving Magnolia and the Lake Conroe Area</p>
 <p>New fences, gates, and repairs built for Montgomery County soil, weather, and HOA rules &mdash; from backyard privacy to multi-acre ranch lines.</p>
 <div class="btn-row76">
 <a class="btn76" href="https://clienthub.getjobber.com/external/organizations/eb745a73-6325-4f89-a162-a3e8115b2874?utm_source=magnoliatxfences&utm_medium=website&utm_campaign=site_booking">Book a Free Estimate</a>

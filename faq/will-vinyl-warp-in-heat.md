@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Will a Vinyl Fence Warp in Texas Heat? | 76 Fence of Magnolia"
+title: "Will a Vinyl Fence Warp in Texas Heat?"
 description: "Why vinyl fences bow or sag in summer heat, how we build vinyl for full-sun Magnolia and Lake Conroe lots, and what to do if yours has started to warp."
 permalink: /faq/will-vinyl-warp-in-heat/
 kind: faq

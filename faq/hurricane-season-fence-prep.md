@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Hurricane Season Fence Prep in Magnolia | 76 Fence of Magnolia"
+title: "Hurricane Season Fence Prep in Magnolia"
 description: "Storm-season fence checks for Magnolia, Pinehurst, and Lake Conroe homes: what to check early, what to do when a storm is coming, and what to do after."
 permalink: /faq/hurricane-season-fence-prep/
 kind: faq

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 18-Month Workmanship Warranty — 76 Fence of Magnolia
+title: "18-Month Workmanship Warranty"
 description: Every fence 76 Fence of Magnolia installs carries an 18-month limited workmanship warranty. See what's covered, what's excluded, and how to file a claim.
 permalink: /warranty/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "New-Construction Fencing in Magnolia, TX | 76 Fence"
+title: "New-Construction Fencing in Magnolia, TX"
 description: "Fencing a new build near Magnolia: builder fence vs. upgrade, finding survey pins, easements and swales, septic and irrigation lines, settling, and gate prep."
 permalink: /resources/new-construction-fence-magnolia-tx/
 kind: article

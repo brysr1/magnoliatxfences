@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Why Fence Posts Fail Around Magnolia, TX | 76 Fence"
+title: "Why Fence Posts Fail Around Magnolia, TX"
 description: "Why fence posts lean, snap, or rot around Magnolia and Montgomery: shallow sets in sand, water in the hole, rot at grade, roots, and gate leverage."
 permalink: /faq/why-fence-posts-fail/
 kind: faq

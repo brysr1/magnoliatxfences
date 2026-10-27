@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Acreage Gate Openers in Magnolia, TX | 76 Fence of Magnolia"
+title: "Acreage Gate Openers in Magnolia, TX"
 description: "Automatic gate openers for acreage around Magnolia: solar vs. wired, swing vs. slide, UL 325 safety basics, keypad placement off the road, and storm outages."
 permalink: /resources/automatic-gate-opener-acreage/
 kind: article

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Aluminum vs. Steel Fence for Lake & Golf Lots | 76 Fence"
+title: "Aluminum vs. Steel Fence for Lake & Golf Lots"
 description: "Ornamental aluminum vs. steel for Magnolia and west Lake Conroe properties: rust, strength, pool barriers, drive gates, HOA specs, and installed cost per foot."
 permalink: /resources/aluminum-vs-steel-fence/
 kind: article

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Best Fence for Wind Around Magnolia, TX | 76 Fence of Magnolia"
+title: "Best Fence for Wind Around Magnolia, TX"
 description: "Which fences hold up best in high wind on Magnolia acreage, subdivision lots, and Lake Conroe waterfront, plus the build details that keep privacy fences up."
 permalink: /faq/best-fence-for-wind/
 kind: faq

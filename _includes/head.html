@@ -2,7 +2,8 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {%- seo -%}
+  {%- seo title=false -%}
+  <title>{% if page.title and page.title != site.title %}{{ page.title | strip_html | normalize_whitespace | escape_once }} | 76 Fence{% else %}{{ site.title | escape_once }}{% endif %}</title>
   <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}?v={{ site.time | date: "%s" }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Best Fence Materials for Texas Weather | 76 Fence of Magnolia"
+title: "Best Fence Materials for Texas Weather"
 description: "How cedar, pine, vinyl, composite, aluminum, steel, chain link, and ranch wire handle heat, humidity, storms, and sandy soil around Magnolia and Lake Conroe."
 permalink: /faq/best-fence-materials-texas-weather/
 kind: faq

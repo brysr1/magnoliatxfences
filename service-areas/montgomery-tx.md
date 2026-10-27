@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fence Installation in Montgomery, TX & Lake Conroe
+title: "Fence Company in Montgomery, TX & Lake Conroe"
 description: Fence installation and repair in Montgomery, TX and the west side of Lake Conroe — ornamental fencing for lake and golf lots, pool enclosures, and privacy fencing. Free estimates.
 permalink: /service-areas/montgomery-tx/
 ---
@@ -8,7 +8,7 @@ permalink: /service-areas/montgomery-tx/
 <section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1784412955063-a0d202cc60bd?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Service Areas</span>
-<h1>Fence Installation in Montgomery, TX</h1>
+<h1>Fence Company in Montgomery, TX</h1>
 <p>Historic Montgomery and the lake and golf communities on the west side of Lake Conroe.</p>
 </div>
 </section>

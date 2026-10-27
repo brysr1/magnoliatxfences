@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Fencing in a Flood Zone or Easement | 76 Fence of Magnolia"
+title: "Fencing in a Flood Zone or Easement"
 description: "Fencing in a FEMA flood zone, drainage easement, or on Lake Conroe near Magnolia and Montgomery: county floodplain permits, plats, and fences that pass water."
 permalink: /faq/flood-zone-easement-fencing/
 kind: faq

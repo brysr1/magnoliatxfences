@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Privacy Policy — 76 Fence of Magnolia
+title: "Privacy Policy"
+h1: "Privacy Policy — 76 Fence of Magnolia"
 description: How magnoliatxfences.com collects, uses, and shares information, including analytics, the contact form, online booking, and embedded maps.
 permalink: /privacy-policy/
 ---

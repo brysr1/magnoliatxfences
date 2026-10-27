@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Property Survey for a Fence in Magnolia | 76 Fence of Magnolia"
+title: "Property Survey for a Fence in Magnolia"
 description: "When a fence around Magnolia, Pinehurst or west Lake Conroe needs a survey or marked pins, finding the pins you have, and the SJRA 201-foot line on lake lots."
 permalink: /faq/property-survey/
 kind: faq

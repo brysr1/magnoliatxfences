@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "HOA Fence Approval in Magnolia, TX | 76 Fence of Magnolia"
+title: "HOA Fence Approval in Magnolia, TX"
 description: "How to get HOA, POA, or ARC fence approval around Magnolia and west Lake Conroe: finding the rules, building the packet, lake lot extras, and timing."
 permalink: /resources/hoa-fence-approval-magnolia-tx/
 kind: article

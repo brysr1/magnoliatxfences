@@ -1,6 +1,6 @@
 ---
 layout: page
-title: As Seen on HGTV — 76 Fence
+title: "As Seen on HGTV"
 description: 76 Fence built the fences featured in three episodes of HGTV's Worst Yard on the Block. See the episodes, the builds, and the team behind them.
 permalink: /as-seen-on-hgtv/
 ---

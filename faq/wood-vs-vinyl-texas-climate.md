@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Wood vs. Vinyl Fence in Magnolia's Climate | 76 Fence of Magnolia"
+title: "Wood vs. Vinyl Fence in Magnolia's Climate"
 description: "Cedar or vinyl for a Magnolia, Pinehurst, or Lake Conroe yard? How rain, summer heat, and pine shade affect each, plus upkeep, cost, and HOA rules."
 permalink: /faq/wood-vs-vinyl-texas-climate/
 kind: faq

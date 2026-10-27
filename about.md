@@ -1,6 +1,7 @@
 ---
 layout: page
-title: About 76 Fence of Magnolia
+title: "About Us"
+h1: "About 76 Fence of Magnolia"
 description: Meet the team behind 76 Fence of Magnolia — owner Bryan Hayes and general manager Byron Dean — and learn how we plan and build fences across Magnolia, Pinehurst, and the Lake Conroe area.
 permalink: /about/
 ---

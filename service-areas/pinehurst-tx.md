@@ -8,7 +8,7 @@ permalink: /service-areas/pinehurst-tx/
 <section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1681853108586-f29b4ef5c0fb?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Service Areas</span>
-<h1>Fence Installation in Pinehurst, TX</h1>
+<h1>Fence Company in Pinehurst, TX</h1>
 <p>Privacy, pet, and ornamental fencing for Pinehurst's master-planned neighborhoods and older lots along SH 249.</p>
 </div>
 </section>

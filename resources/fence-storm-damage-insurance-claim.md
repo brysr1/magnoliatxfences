@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Fence Storm Damage and Insurance Claims | 76 Fence"
+title: "Fence Storm Damage and Insurance Claims"
 description: "After a storm in Magnolia or Montgomery: how to secure and photograph a damaged fence, what Texas home policies usually pay, and getting an itemized estimate."
 permalink: /resources/fence-storm-damage-insurance-claim/
 kind: article

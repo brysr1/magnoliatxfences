@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Cedar vs. Pine Fence in Magnolia, TX | 76 Fence of Magnolia"
+title: "Pine vs. Cedar Fence: Which Lasts Longer in Texas?"
 description: "Cedar vs. pine fence for Magnolia and Pinehurst yards: installed cost, rot and termites, warping in summer heat, staining, lifespan, and where each wood fits."
 permalink: /resources/cedar-vs-pine-fence/
 kind: article
 topic: "Choosing a fence"
 order: 1
-headline: "Cedar vs. Pine Fence: Which Wood Is Worth It on Your Lot?"
+headline: "Pine vs. Cedar Fence: Which Lasts Longer in Texas?"
 lede: "Pressure-treated pine saves a few dollars a foot. Cedar stays straighter and holds off rot on its own. Here's how the two compare around Magnolia and Pinehurst."
 date: 2026-10-23
 read: 4

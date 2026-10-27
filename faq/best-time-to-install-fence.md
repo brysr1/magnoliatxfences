@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Best Time to Install a Fence in Magnolia | 76 Fence of Magnolia"
+title: "Best Time to Install a Fence in Magnolia"
 description: "When to schedule a fence around Magnolia, Pinehurst and Lake Conroe: busy and slow seasons, HOA and permit lead time, wet pastures, and when to plan staining."
 permalink: /faq/best-time-to-install-fence/
 kind: faq
