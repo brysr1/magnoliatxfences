@@ -8,7 +8,7 @@ description: Fence installation and repair for Magnolia, Pinehurst, the town of 
 <div class="hero76-inner">
 <span class="eyebrow76">Magnolia &middot; Pinehurst &middot; Montgomery &middot; Lake Conroe</span>
 <h1>Fence Company in Magnolia, TX</h1>
-<p class="sub76">Serving Magnolia and the Lake Conroe Area</p>
+<p class="hero-sub76">Serving Magnolia and the Lake Conroe Area</p>
 <p>New fences, gates, and repairs built for Montgomery County soil, weather, and HOA rules &mdash; from backyard privacy to multi-acre ranch lines.</p>
 <div class="btn-row76">
 <a class="btn76" href="https://clienthub.getjobber.com/external/organizations/eb745a73-6325-4f89-a162-a3e8115b2874?utm_source=magnoliatxfences&utm_medium=website&utm_campaign=site_booking">Book a Free Estimate</a>
