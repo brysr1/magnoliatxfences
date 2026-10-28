@@ -29,8 +29,8 @@ permalink: /pricing-guide/
 <tr><td>Pressure-treated pine</td><td>$25&ndash;$35</td></tr>
 <tr><td><a href="/materials/wood-cedar/">Cedar</a></td><td>$30&ndash;$47</td></tr>
 <tr><td><a href="/materials/vinyl/">Vinyl</a></td><td>$25&ndash;$70 (3-rail from about $25&ndash;$30; privacy panels from about $50)</td></tr>
-<tr><td><a href="/materials/ornamental-steel-aluminum/">Aluminum</a></td><td>$40&ndash;$75</td></tr>
-<tr><td><a href="/materials/ornamental-steel-aluminum/">Steel</a></td><td>$50&ndash;$85</td></tr>
+<tr><td><a href="/materials/ornamental-steel-aluminum/">Aluminum</a></td><td>$40&ndash;$100</td></tr>
+<tr><td><a href="/materials/ornamental-steel-aluminum/">Steel</a></td><td>$40&ndash;$100</td></tr>
 <tr><td><a href="/materials/composite-trex/">Composite / Trex</a></td><td>$100&ndash;$175+</td></tr>
 <tr><td><a href="/materials/farm-ranch/">Farm &amp; ranch</a> (field, no-climb, barbed wire)</td><td>Varies widely with acreage and terrain; priced at a site visit</td></tr>
 </tbody>

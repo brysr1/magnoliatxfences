@@ -7,7 +7,7 @@ kind: article
 topic: "Choosing a fence"
 order: 7
 headline: "Aluminum vs. Steel Ornamental Fence: Which Metal Fits Your Lot?"
-lede: "They look nearly the same from the street. The difference is in rust, strength, weight, and price, and it changes from the lakeshore to the front gate."
+lede: "They look nearly the same from the street. The difference is in rust, strength, and weight, and it changes from the lakeshore to the front gate."
 date: 2026-10-14
 read: 5
 related:
@@ -49,7 +49,7 @@ faqs:
 <tr><th></th><th>Aluminum</th><th>Steel</th></tr>
 </thead>
 <tbody>
-<tr><td>Typical installed range</td><td>$40&ndash;$75 per linear foot</td><td>$50&ndash;$85 per linear foot</td></tr>
+<tr><td>Typical installed range</td><td>$40&ndash;$100 per linear foot</td><td>$40&ndash;$100 per linear foot</td></tr>
 <tr><td>Rust</td><td>Won't rust</td><td>Rusts where coating is broken</td></tr>
 <tr><td>Strength</td><td>Lighter, more flex</td><td>Heavier, very rigid</td></tr>
 <tr><td>Best fit</td><td>Pools, lakefront, damp shady yards</td><td>Drive gates, security, high-impact areas</td></tr>

@@ -75,7 +75,7 @@ permalink: /fence-styles/pool-enclosure/
 <div class="inner76">
 <h2>What affects the cost</h2>
 <ul class="checklist76">
-<li><strong>Material.</strong> On our <a href="/pricing-guide/">pricing guide</a>, installed aluminum typically runs $40&ndash;$75 per linear foot and steel $50&ndash;$85.</li>
+<li><strong>Material.</strong> On our <a href="/pricing-guide/">pricing guide</a>, installed aluminum and steel typically run $40&ndash;$100 per linear foot.</li>
 <li><strong>Length and layout.</strong> A fence around the pool deck is shorter than a full yard fence, but corners and curves add posts.</li>
 <li><strong>Gates.</strong> Self-closing hinges and pool latches cost more than standard hardware, and each gate adds a frame.</li>
 <li><strong>Ground.</strong> Slopes toward the lake, decking, and tree roots change how posts are set.</li>
