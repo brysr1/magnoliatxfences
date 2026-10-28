@@ -35,8 +35,10 @@ main:
         url: /materials/wood-cedar/
       - title: Vinyl
         url: /materials/vinyl/
-      - title: Ornamental Steel & Aluminum
+      - title: Ornamental Steel
         url: /materials/ornamental-steel-aluminum/
+      - title: Aluminum
+        url: /materials/aluminum/
       - title: Chain Link
         url: /materials/chain-link/
       - title: Composite (Trex)

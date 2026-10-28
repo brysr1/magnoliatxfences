@@ -31,7 +31,7 @@ permalink: /fence-styles/ornamental/
 <div class="inner76">
 <h2>Materials it's built in</h2>
 <div class="cards76">
-<div class="card76"><div class="card76-body"><h3>Ornamental Steel &amp; Aluminum</h3><p>Rust-free aluminum or heavier powder-coated steel, in black, bronze, and other finishes.</p><a class="card76-link" href="/materials/ornamental-steel-aluminum/">Ornamental Steel &amp; Aluminum &rarr;</a></div></div>
+<div class="card76"><div class="card76-body"><h3>Ornamental Steel &amp; Aluminum</h3><p>Rust-free aluminum or heavier powder-coated steel, in black, bronze, and other finishes.</p><a class="card76-link" href="/materials/ornamental-steel-aluminum/">Ornamental Steel &rarr;</a> <a class="card76-link" href="/materials/aluminum/" style="margin-left:14px">Aluminum &rarr;</a></div></div>
 </div>
 </div>
 </section>

@@ -42,7 +42,7 @@ permalink: /fence-styles/pool-enclosure/
 <section class="section76">
 <h2>Materials it's built in</h2>
 <div class="cards76">
-<div class="card76"><div class="card76-body"><h3>Ornamental Steel &amp; Aluminum</h3><p>Aluminum is the top choice around pools because it won't rust from splash and pool chemicals.</p><a class="card76-link" href="/materials/ornamental-steel-aluminum/">Ornamental Steel &amp; Aluminum &rarr;</a></div></div>
+<div class="card76"><div class="card76-body"><h3>Ornamental Steel &amp; Aluminum</h3><p>Aluminum is the top choice around pools because it won't rust from splash and pool chemicals.</p><a class="card76-link" href="/materials/aluminum/">Aluminum &rarr;</a> <a class="card76-link" href="/materials/ornamental-steel-aluminum/" style="margin-left:14px">Steel &rarr;</a></div></div>
 <div class="card76"><div class="card76-body"><h3>Vinyl</h3><p>Vinyl privacy or semi-privacy sections where you also want screening from neighbors.</p><a class="card76-link" href="/materials/vinyl/">Vinyl &rarr;</a></div></div>
 <div class="card76"><div class="card76-body"><h3>Wood privacy</h3><p>Cedar or pine privacy fencing around a pool and patio when screening matters more than the view, built with the rails on the pool side.</p><a class="card76-link" href="/materials/wood-cedar/">Wood &amp; Cedar &rarr;</a></div></div>
 </div>

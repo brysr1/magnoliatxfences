@@ -33,7 +33,7 @@ permalink: /fence-styles/picket/
 <div class="cards76">
 <div class="card76"><div class="card76-body"><h3>Wood &amp; Cedar</h3><p>Painted or stained wood pickets for a traditional look.</p><a class="card76-link" href="/materials/wood-cedar/">Wood &amp; Cedar &rarr;</a></div></div>
 <div class="card76"><div class="card76-body"><h3>Vinyl</h3><p>White vinyl pickets that never need repainting.</p><a class="card76-link" href="/materials/vinyl/">Vinyl &rarr;</a></div></div>
-<div class="card76"><div class="card76-body"><h3>Ornamental Steel &amp; Aluminum</h3><p>Metal picket fencing for a cleaner, more formal look.</p><a class="card76-link" href="/materials/ornamental-steel-aluminum/">Ornamental Steel &amp; Aluminum &rarr;</a></div></div>
+<div class="card76"><div class="card76-body"><h3>Ornamental Steel &amp; Aluminum</h3><p>Metal picket fencing for a cleaner, more formal look.</p><a class="card76-link" href="/materials/ornamental-steel-aluminum/">Ornamental Steel &rarr;</a> <a class="card76-link" href="/materials/aluminum/" style="margin-left:14px">Aluminum &rarr;</a></div></div>
 </div>
 </div>
 </section>

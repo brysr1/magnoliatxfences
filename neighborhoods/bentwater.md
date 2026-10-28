@@ -65,7 +65,7 @@ Humidity, lake winds, and sprinkler overspray wear on any fence. We repair loose
 <h2>Most requested in Bentwater</h2>
 <div class="cards76 cards76-3">
 <div class="card76"><div class="card76-body"><h3>Ornamental fences</h3><p>Open <a href="/materials/ornamental-steel-aluminum/">aluminum and steel</a> fencing that keeps lake and fairway views intact.</p><a class="card76-link" href="/fence-styles/ornamental/">Learn more &rarr;</a></div></div>
-<div class="card76"><div class="card76-body"><h3>Pool enclosures</h3><p>Pool barriers with self-closing, self-latching gates, usually in rust-free <a href="/materials/ornamental-steel-aluminum/">aluminum</a>.</p><a class="card76-link" href="/fence-styles/pool-enclosure/">Learn more &rarr;</a></div></div>
+<div class="card76"><div class="card76-body"><h3>Pool enclosures</h3><p>Pool barriers with self-closing, self-latching gates, usually in rust-free <a href="/materials/aluminum/">aluminum</a>.</p><a class="card76-link" href="/fence-styles/pool-enclosure/">Learn more &rarr;</a></div></div>
 <div class="card76"><div class="card76-body"><h3>Neighbor-side privacy</h3><p>Cedar or <a href="/materials/composite-trex/">composite</a> privacy sections between homes, paired with open fencing toward the view.</p><a class="card76-link" href="/fence-styles/privacy/">Learn more &rarr;</a></div></div>
 </div>
 </section>

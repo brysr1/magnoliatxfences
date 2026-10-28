@@ -34,7 +34,7 @@ permalink: /security-fencing/
 <div class="cards76 cards76-3">
 <div class="card76"><div class="card76-body"><h3>Commercial chain link</h3><p>Heavier-gauge fabric and stronger posts than residential chain link, with privacy slats where you need to block the view.</p><a class="card76-link" href="/materials/chain-link/">Chain link &rarr;</a></div></div>
 <div class="card76"><div class="card76-body"><h3>Steel</h3><p>Welded steel panels and spear-top ornamental steel for a strong, defined perimeter, finished to resist rust in our humidity.</p><a class="card76-link" href="/materials/ornamental-steel-aluminum/">Ornamental metal &rarr;</a></div></div>
-<div class="card76"><div class="card76-body"><h3>Aluminum</h3><p>A lighter, low-maintenance option that still gives a clear, visible boundary for offices and storefronts.</p><a class="card76-link" href="/materials/ornamental-steel-aluminum/">Ornamental metal &rarr;</a></div></div>
+<div class="card76"><div class="card76-body"><h3>Aluminum</h3><p>A lighter, low-maintenance option that still gives a clear, visible boundary for offices and storefronts.</p><a class="card76-link" href="/materials/aluminum/">Aluminum &rarr;</a></div></div>
 </div>
 </div>
 </section>

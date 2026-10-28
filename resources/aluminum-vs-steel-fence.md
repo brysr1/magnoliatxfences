@@ -11,6 +11,7 @@ lede: "They look nearly the same from the street. The difference is in rust, str
 date: 2026-10-14
 read: 5
 related:
+  - /materials/aluminum/
   - /materials/ornamental-steel-aluminum/
   - /fence-styles/pool-enclosure/
   - /resources/security-fence-types/
