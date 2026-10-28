@@ -56,6 +56,19 @@ permalink: /fence-styles/gates/
 </div>
 </section>
 
+<section class="section76">
+<div class="prose76">
+<h2>Solar or wired?</h2>
+<ul class="checklist76">
+<li><strong>Solar.</strong> A panel charges a battery at the gate, so there's no power line to trench down a long drive. It's the common pick for acreage entrances on FM 1488 or FM 1774. The panel needs several hours of direct sun, so under pines or big oaks it may go on a separate pole where it clears the tree line.</li>
+<li><strong>Wired.</strong> Runs on household power. It suits heavy gates, gates that open many times a day, and entrances close to the house. The line-voltage feed is generally work for a licensed electrician, and we coordinate with yours.</li>
+<li><strong>Battery backup.</strong> Solar keeps running on its battery during an outage. A wired opener needs a backup battery to do the same.</li>
+<li><strong>Manual release.</strong> Every opener has one, so the gate can be opened by hand. We show you how it works at the walkthrough.</li>
+</ul>
+<p>More on power, swing vs. slide, and safety in our <a href="/resources/automatic-gate-opener-acreage/">automatic gate opener guide</a>.</p>
+</div>
+</section>
+
 <section class="section76-alt full-bleed76">
 <div class="inner76">
 <h2>Gate questions</h2>
