@@ -56,6 +56,11 @@ permalink: /security-fencing/
 <div>
 <h2>Gates are the weak point</h2>
 <p>An otherwise solid perimeter is only as good as its gates. Where a site calls for it, we pair security fencing with real access control instead of a simple latch: automatic operators, keypads, card readers, or call boxes. See <a href="/fence-styles/gates/">gates &amp; gate openers</a>.</p>
+<ul class="checklist76">
+<li><strong>Openers.</strong> Solar where there's no power at the gate. Wired for heavy gates that cycle many times a day. Ask about battery backup so the gate keeps working in an outage, and every opener has a manual release.</li>
+<li><strong>Safety sensors.</strong> Sensors stop or reverse the gate if a person or vehicle is in the way.</li>
+<li><strong>Emergency access.</strong> Fire department access is planned on gated sites.</li>
+</ul>
 <h2>Homes and acreage, too</h2>
 <p>The same ideas work at home: taller fence lines, solid panels, and controlled gates around pools, equipment yards, and rural properties. Pool barriers have their own requirements; see <a href="/fence-styles/pool-enclosure/">pool enclosures</a>.</p>
 </div>
