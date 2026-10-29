@@ -25,7 +25,7 @@ permalink: /pricing-guide/
 <table class="table76">
 <thead><tr><th>Material</th><th>Typical range (per linear foot, installed)</th></tr></thead>
 <tbody>
-<tr><td><a href="/materials/chain-link/">Chain link</a></td><td>$15&ndash;$40</td></tr>
+<tr><td><a href="/materials/chain-link/">Chain link</a></td><td>$18&ndash;$40</td></tr>
 <tr><td>Pressure-treated pine</td><td>$25&ndash;$35</td></tr>
 <tr><td><a href="/materials/wood-cedar/">Cedar</a></td><td>$30&ndash;$47</td></tr>
 <tr><td><a href="/materials/vinyl/">Vinyl</a></td><td>$25&ndash;$70 (3-rail from about $25&ndash;$30; privacy panels from about $50)</td></tr>
