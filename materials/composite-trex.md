@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Composite Fencing — Magnolia, TX
+title: "Composite Fencing in Magnolia, TX"
 description: Composite fencing for Magnolia, Pinehurst, and Lake Conroe homes — a wood look with less upkeep, how it holds up in humid weather, and what it costs.
 permalink: /materials/composite-trex/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pool Enclosure Fences — Magnolia & Lake Conroe, TX
+title: "Pool Enclosure Fences in Magnolia, TX"
 description: Pool enclosure fencing for Magnolia and Lake Conroe homes — ornamental aluminum and steel pool fences with self-closing, self-latching gates.
 permalink: /fence-styles/pool-enclosure/
 ---
@@ -8,7 +8,7 @@ permalink: /fence-styles/pool-enclosure/
 <section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1612896018599-3ba9e85cb147?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Fence Styles</span>
-<h1>Pool Enclosure Fences</h1>
+<h1>Pool Enclosure Fences in Magnolia, TX</h1>
 <p>Safer pool areas with fencing and gates built around code and HOA requirements.</p>
 </div>
 </section>

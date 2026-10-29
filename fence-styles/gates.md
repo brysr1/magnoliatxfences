@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fence Gates & Automatic Gate Openers — Magnolia, TX
+title: "Gates & Gate Openers in Magnolia, TX"
 description: Walk gates, double drive gates, and automatic gate openers for Magnolia, Pinehurst, and Lake Conroe homes and acreage, framed and hung so they don't sag.
 permalink: /fence-styles/gates/
 ---
@@ -8,7 +8,7 @@ permalink: /fence-styles/gates/
 <section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1769831190663-95fe8454d8c9?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Fence Styles</span>
-<h1>Gates &amp; Gate Openers</h1>
+<h1>Gates &amp; Gate Openers in Magnolia, TX</h1>
 <p>Walk gates, drive gates, and automatic openers built to take daily use without sagging.</p>
 </div>
 </section>

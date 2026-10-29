@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Picket Fences — Magnolia, TX
+title: "Picket Fences in Magnolia, TX"
 description: Picket fences for Magnolia, Pinehurst, and Lake Conroe homes — classic front-yard and garden fencing in wood, vinyl, and metal.
 permalink: /fence-styles/picket/
 ---
@@ -8,7 +8,7 @@ permalink: /fence-styles/picket/
 <section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1662083107275-1c85e31c58a4?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Fence Styles</span>
-<h1>Picket Fences</h1>
+<h1>Picket Fences in Magnolia, TX</h1>
 <p>Classic front-yard and garden fencing that defines the space without closing it off.</p>
 </div>
 </section>

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Horizontal & Modern Fences — Magnolia, TX
+title: "Horizontal & Modern Fences in Magnolia, TX"
 description: Horizontal and modern fence styles for Magnolia-area homes — slat and board designs in wood and composite, with notes on HOA approval and lot fit.
 permalink: /fence-styles/horizontal-modern/
 ---
@@ -8,7 +8,7 @@ permalink: /fence-styles/horizontal-modern/
 <section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1645217923074-1785562177c7?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Fence Styles</span>
-<h1>Horizontal &amp; Modern Fences</h1>
+<h1>Horizontal &amp; Modern Fences in Magnolia, TX</h1>
 <p>Clean horizontal lines for newer homes and outdoor living spaces.</p>
 </div>
 </section>

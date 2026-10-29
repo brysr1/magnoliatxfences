@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Aluminum Fencing — Magnolia & Lake Conroe, TX
+title: "Aluminum Fencing in Magnolia & Lake Conroe, TX"
 description: Rust-free ornamental aluminum fences for pools, golf-course and lakefront lots, and front yards in Magnolia and the Lake Conroe area — look, upkeep, and cost.
 permalink: /materials/aluminum/
 ---

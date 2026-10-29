@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pet & Dog Fences — Magnolia, TX
+title: "Pet & Dog Fences in Magnolia, TX"
 description: Dog fences for Magnolia, Pinehurst, and Lake Conroe yards, built around your dog's size and habits with tight spacing, dig barriers, and self-latching gates.
 permalink: /fence-styles/pet/
 ---
@@ -8,7 +8,7 @@ permalink: /fence-styles/pet/
 <section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1662083107275-1c85e31c58a4?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Fence Styles</span>
-<h1>Pet &amp; Dog Fences</h1>
+<h1>Pet &amp; Dog Fences in Magnolia, TX</h1>
 <p>Fencing built around how your dog actually behaves, not a generic spec.</p>
 </div>
 </section>
@@ -46,6 +46,15 @@ permalink: /fence-styles/pet/
 <h2>Local things to plan for</h2>
 <p>Sandy topsoil over clay, common around Magnolia, is easy for dogs to dig and can settle after heavy rain, opening small gaps under a fence that's otherwise fine. A dig barrier along the base is cheap insurance.</p>
 <p>Texas summers matter too. A dog that spends time outside needs shade and airflow along with a secure yard, so we'll talk through where shade falls and whether a little ventilation near the bottom of a solid fence makes sense. Some HOAs restrict chain link or require it to be screened from the street, so check your guidelines; see <a href="/hoa-fencing/">HOA fencing</a>. We request Texas 811 locates before any digging.</p>
+</div>
+</section>
+
+<section class="section76">
+<div class="prose76">
+<h2>A fenced yard instead of a tie-out</h2>
+<p>Texas law limits how a dog can be tied out. Under the Safe Outdoor Dogs Act, <a href="https://statutes.capitol.texas.gov/Docs/HS/htm/HS.821.htm#821.102">Health and Safety Code &sect;821.102</a>, a dog left outside and unattended on a restraint must have adequate shelter, shade from direct sun, drinkable water, and an area free of standing water and excessive waste. The restraint can't be a chain or have weights attached, has to clip to a properly fitted collar or harness, and must be at least five times the dog's length or 10 feet, whichever is longer. Some exceptions apply, and a violation is a Class C misdemeanor. A secure fence lets your dog use the yard with no restraint at all, though shade and water still matter.</p>
+<h3>Why diggers get out around Magnolia</h3>
+<p>According to the NRCS soil survey, the most common soil in Montgomery County is Conroe loamy fine sand: loose sand on top of slower-draining clay. Dogs dig through sand quickly, and after heavy rain it can settle along the base of a fence and open a gap. That's why we recommend a dig barrier for any dog with a digging habit. Our guide to <a href="/resources/fence-posts-montgomery-county-soil/">setting posts in Montgomery County soil</a> explains what's under a typical yard.</p>
 </div>
 </section>
 

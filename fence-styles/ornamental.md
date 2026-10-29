@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ornamental Fences — Magnolia & Lake Conroe, TX
+title: "Ornamental Fences in Magnolia & Lake Conroe, TX"
 description: Ornamental aluminum and steel fences for Magnolia and Lake Conroe properties — open, elegant fencing for front yards, golf-course and lakefront lots, and entries.
 permalink: /fence-styles/ornamental/
 ---
@@ -8,7 +8,7 @@ permalink: /fence-styles/ornamental/
 <section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1593447335357-64f08ae11348?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Fence Styles</span>
-<h1>Ornamental Fences</h1>
+<h1>Ornamental Fences in Magnolia &amp; Lake Conroe, TX</h1>
 <p>Open, elegant metal fencing that adds security without blocking the view.</p>
 </div>
 </section>

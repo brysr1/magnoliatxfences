@@ -3,6 +3,7 @@ layout: page
 title: "Aluminum vs. Steel Fence for Lake & Golf Lots"
 description: "Ornamental aluminum vs. steel for Magnolia and west Lake Conroe properties: rust, strength, pool barriers, drive gates, HOA specs, and installed cost per foot."
 permalink: /resources/aluminum-vs-steel-fence/
+canonical_url: https://northhoustonfence.com/resources/aluminum-vs-steel-fence-houston/
 kind: article
 topic: "Choosing a fence"
 order: 7

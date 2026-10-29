@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vinyl Fencing — Magnolia, TX
+title: "Vinyl Fencing in Magnolia, TX"
 description: Vinyl privacy and picket fencing for Magnolia, Pinehurst, and Lake Conroe homes — appearance, low-maintenance upkeep, and where vinyl falls on cost.
 permalink: /materials/vinyl/
 ---

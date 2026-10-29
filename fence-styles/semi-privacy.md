@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Semi-Privacy Fences — Magnolia, TX
+title: "Semi-Privacy Fences in Magnolia, TX"
 description: Semi-privacy fences for Magnolia-area homes — shadowbox, lattice-top, and spaced-board styles that screen your yard while letting light and air through.
 permalink: /fence-styles/semi-privacy/
 ---
@@ -8,7 +8,7 @@ permalink: /fence-styles/semi-privacy/
 <section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1691821331552-ab4f12500a24?rect=0,250,1770,1200&auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Fence Styles</span>
-<h1>Semi-Privacy Fences</h1>
+<h1>Semi-Privacy Fences in Magnolia, TX</h1>
 <p>Screening without a solid wall &mdash; light, airflow, and a softer look.</p>
 </div>
 </section>

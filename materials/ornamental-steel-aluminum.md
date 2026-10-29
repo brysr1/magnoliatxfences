@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ornamental Steel Fencing — Magnolia & Lake Conroe, TX
+title: "Ornamental Steel Fencing in Magnolia, TX"
 description: Powder-coated ornamental steel fences for drive gates, frontage, security, golf-course and lakefront lots in Magnolia and the Lake Conroe area — look, upkeep, and cost.
 permalink: /materials/ornamental-steel-aluminum/
 ---

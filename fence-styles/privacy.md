@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Fences — Magnolia, TX
+title: "Privacy Fences in Magnolia, TX"
 description: Wood, vinyl, and composite privacy fences for Magnolia, Pinehurst, and Lake Conroe homes — typical heights, materials, and how they fit subdivision lots and acreage.
 permalink: /fence-styles/privacy/
 ---
@@ -8,7 +8,7 @@ permalink: /fence-styles/privacy/
 <section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1601042860368-debed90085e0?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Fence Styles</span>
-<h1>Privacy Fences</h1>
+<h1>Privacy Fences in Magnolia, TX</h1>
 <p>Solid, full-height fencing for backyards, patios, and property lines.</p>
 </div>
 </section>

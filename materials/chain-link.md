@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Chain Link Fencing — Magnolia, TX
+title: "Chain Link Fencing in Magnolia, TX"
 description: Residential and commercial chain link fencing in Magnolia, Pinehurst, and Montgomery, TX — galvanized and vinyl-coated options, upkeep, and cost.
 permalink: /materials/chain-link/
 ---

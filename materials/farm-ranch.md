@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Farm & Ranch Fencing Materials — Montgomery County, TX
+title: "Farm & Ranch Fencing in Magnolia, TX"
 description: Farm and ranch fencing materials for Montgomery County acreage — field wire, no-climb horse fence, barbed wire, pipe, and rail — with upkeep and cost notes.
 permalink: /materials/farm-ranch/
 ---

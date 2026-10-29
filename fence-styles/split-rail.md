@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Split Rail & Post-and-Rail Fences — Magnolia, TX
+title: "Split Rail & Post-and-Rail Fences in Magnolia, TX"
 description: Split rail and post-and-rail fencing for acreage around Magnolia, Pinehurst, and Montgomery County — open rail fences for road frontage, driveways, and pastures.
 permalink: /fence-styles/split-rail/
 ---
@@ -8,7 +8,7 @@ permalink: /fence-styles/split-rail/
 <section class="hero76 hero76-small full-bleed76" style="background-image:url('https://images.unsplash.com/photo-1619815515257-140d3da969be?auto=format&fit=crop&w=1600&q=80');">
 <div class="hero76-inner">
 <span class="eyebrow76">Fence Styles</span>
-<h1>Split Rail &amp; Post-and-Rail Fences</h1>
+<h1>Split Rail &amp; Post-and-Rail Fences in Magnolia, TX</h1>
 <p>Open rail fencing that marks a boundary and gives acreage a classic ranch look.</p>
 </div>
 </section>
