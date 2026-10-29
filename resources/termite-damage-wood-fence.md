@@ -3,7 +3,6 @@ layout: page
 title: "Termite Damage on a Wood Fence"
 description: "How to spot termite damage on a wood fence around Magnolia, tell it from rot, decide whether to repair or replace, and build back so termites have less to eat."
 permalink: /resources/termite-damage-wood-fence/
-canonical_url: https://northhoustonfence.com/resources/termite-damage-wood-fence-houston/
 kind: article
 topic: "Repairs & upkeep"
 order: 4
