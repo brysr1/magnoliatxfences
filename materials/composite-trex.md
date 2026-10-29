@@ -7,7 +7,7 @@ permalink: /materials/composite-trex/
 
 <img class="photo76" src="https://images.unsplash.com/photo-1612507526151-ccda9cabc71d?auto=format&fit=crop&w=1200&q=80" alt="Smooth brown composite-style fence boards behind a flowering rose bush">
 
-<p><strong>Look.</strong> Composite fencing is made from a blend of wood fibers and plastic, formed into boards with a wood-grain texture. Brand-name systems such as Trex are the best known, but several manufacturers make them. Composite comes in earthy browns and modern grays, and its solid boards make it a natural fit for full-privacy and horizontal-style fences that look high-end from day one.</p>
+<p><strong>Look.</strong> Composite fencing is made from a blend of wood fibers and plastic resin, formed into boards with a wood-grain texture. Brand-name systems such as Trex are the best known, but several manufacturers make them. Composite comes in earthy browns and modern grays, and its solid boards make it a natural fit for full-privacy and horizontal-style fences that look high-end from day one.</p>
 
 <p><strong>Upkeep.</strong> Composite doesn't need stain or sealer, won't rot, and resists the warping, splitting, and insect damage that wear down wood in a humid climate. An occasional wash keeps it looking fresh. Colors can lighten slightly in strong sun over the first months before settling in.</p>
 
