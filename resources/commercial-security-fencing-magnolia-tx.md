@@ -36,7 +36,7 @@ faqs:
 <tr><td>Boat and RV storage</td><td>Chain link or welded mesh around the full perimeter</td><td>Automatic slide gate with individual keypad codes</td></tr>
 <tr><td>Retail center or office</td><td>Ornamental steel at the frontage, screening at service areas</td><td>Service gate and dumpster enclosure gates</td></tr>
 <tr><td>Church or school campus</td><td>Ornamental steel or vinyl-coated chain link</td><td>Several walk gates plus vehicle gates for events</td></tr>
-<tr><td>HOA amenity center or pool</td><td>Ornamental aluminum or steel built to pool barrier rules</td><td>Self-closing, self-latching walk gates; card or fob access</td></tr>
+<tr><td>HOA amenity center or pool</td><td>Ornamental aluminum or steel built to pool barrier rules</td><td>Self-closing, self-latching walk gates; keypad or remote access</td></tr>
 </tbody>
 </table>
 <p>Most properties mix types. Ornamental steel where customers see it and chain link along the back line is a common way to keep the look up and the cost down.</p>

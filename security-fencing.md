@@ -24,7 +24,7 @@ permalink: /security-fencing/
 <ul class="checklist76">
 <li><strong>Typical height:</strong> 6 to 8 ft, taller for higher-security sites</li>
 <li><strong>Tops:</strong> flat, spear-top, angled, or barbed-wire arms</li>
-<li><strong>Access:</strong> manual or automatic swing and slide gates, with keypad, card, or call-box entry</li>
+<li><strong>Access:</strong> manual or automatic swing and slide gates, with keypad, remote, or phone-app entry</li>
 </ul>
 </section>
 
@@ -55,7 +55,7 @@ permalink: /security-fencing/
 </div>
 <div>
 <h2>Gates are the weak point</h2>
-<p>An otherwise solid perimeter is only as good as its gates. Where a site calls for it, we pair security fencing with real access control instead of a simple latch: automatic operators, keypads, card readers, or call boxes. See <a href="/fence-styles/gates/">gates &amp; gate openers</a>.</p>
+<p>An otherwise solid perimeter is only as good as its gates. Where a site calls for it, we pair security fencing with real access control instead of a simple latch: automatic operators, keypads, and remotes. See <a href="/fence-styles/gates/">gates &amp; gate openers</a>.</p>
 <ul class="checklist76">
 <li><strong>Openers.</strong> Solar where there's no power at the gate. Wired for heavy gates that cycle many times a day. Ask about battery backup so the gate keeps working in an outage, and every opener has a manual release.</li>
 <li><strong>Safety sensors.</strong> Sensors stop or reverse the gate if a person or vehicle is in the way.</li>
@@ -72,7 +72,7 @@ permalink: /security-fencing/
 <h2>Security fencing questions</h2>
 <div class="faq76">
 <details><summary>What height is right for commercial security?</summary><div class="answer76"><p>Six to eight feet is typical for a commercial perimeter, but the right height depends on what you're protecting and local rules. We'll walk the site before recommending a spec.</p></div></details>
-<details><summary>Can the gates have keypad or card access?</summary><div class="answer76"><p>Yes. We install swing and slide operators with keypad, card, remote, or call-box access.</p></div></details>
+<details><summary>Can the gates have keypad or remote access?</summary><div class="answer76"><p>Yes. We install swing and slide operators with keypad, remote, or phone-app access.</p></div></details>
 <details><summary>Do I need a permit for commercial fencing?</summary><div class="answer76"><p>Commercial projects are more likely to need one, and requirements differ between the City of Magnolia, the City of Montgomery, and unincorporated county. We confirm what applies to your site before we quote.</p></div></details>
 </div>
 </div>

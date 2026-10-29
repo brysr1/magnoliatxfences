@@ -65,7 +65,7 @@ faqs:
 
 <h2>Gates decide whether any of it works</h2>
 <p>The gate is where a perimeter usually gives way. A big gap under a swing gate, hinges that lift off their pins, or a padlock hanging where anyone can reach it will undo a good fence. Security gates get hinges that can't be lifted off, minimal ground clearance, and a latch or lock placed so it's hard to reach through.</p>
-<p>For sites with daily vehicle traffic, an automatic slide or swing gate with keypad, card, or remote access stays closed by default instead of propped open all afternoon. Powered gates have their own safety rules under UL 325, which we explain in our <a href="/resources/automatic-gate-opener-acreage/">gate opener guide</a>. People on foot should get their own walk gate, separate from the vehicle gate.</p>
+<p>For sites with daily vehicle traffic, an automatic slide or swing gate with keypad or remote access stays closed by default instead of propped open all afternoon. Powered gates have their own safety rules under UL 325, which we explain in our <a href="/resources/automatic-gate-opener-acreage/">gate opener guide</a>. People on foot should get their own walk gate, separate from the vehicle gate.</p>
 
 <p>If you're weighing options for a shop, a yard, or a home that needs more than a privacy fence, we'll walk the property with you, look at how people and vehicles come and go, and send a written spec and quote. Our <a href="/security-fencing/">security fencing</a> page shows what we build, or call (281) 292-1897.</p>
 {% include article-end.html %}
