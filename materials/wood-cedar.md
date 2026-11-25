@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Wood & Cedar Fencing in Magnolia, TX"
+title: "Wood & Cedar Fence Installation in Magnolia"
 description: Wood and cedar privacy fences for Magnolia, Pinehurst, and Lake Conroe homes — styles, upkeep in a humid climate, and cost compared with other fence materials.
 permalink: /materials/wood-cedar/
 ---

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Our Fence Installation Process — Magnolia, TX
+title: "How Our Fence Process Works"
 description: How a fence project works with 76 Fence of Magnolia, from the first call and written estimate through HOA approval, Texas 811 locates, installation day, and the final walkthrough.
 permalink: /process/
 ---
