@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Wrought Iron Fence in Magnolia, TX | 76 Fence of Magnolia"
+title: "Wrought Iron Fence in Magnolia, TX"
 description: "Shopping for a wrought iron fence in Magnolia, TX? What today's 'wrought iron' really is, how to spot quality, gates, rust, cost, and HOA rules."
 permalink: /resources/wrought-iron-fence-magnolia-tx/
 kind: article

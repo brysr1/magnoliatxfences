@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Board on Board vs. Shadowbox Fence | 76 Fence of Magnolia"
+title: "Board on Board vs. Shadowbox Fence"
 description: "Board on board vs. shadowbox fence for Magnolia and Pinehurst yards: privacy, wind, cost, looks from both sides, staining, and which one fits your lot."
 permalink: /resources/board-on-board-vs-shadowbox-fence/
 kind: article

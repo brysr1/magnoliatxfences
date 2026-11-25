@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Planning a Backyard Pool Fence in Magnolia, TX | 76 Fence"
+title: "Planning a Backyard Pool Fence in Magnolia, TX"
 description: "Planning a backyard pool fence in Magnolia or Pinehurst? Layout, gates that keep latching in sandy soil, climbable spots, and timing with the pool build."
 permalink: /resources/backyard-pool-fence-magnolia-tx/
 kind: article
