@@ -19,6 +19,14 @@ description: Fence installation and repair for Magnolia, Pinehurst, the town of 
 {% include trust.html %}
 
 <section class="section76">
+<div class="prose76">
+<h2>Fence installation in Magnolia</h2>
+<p>Magnolia is our home base, and most of what we install here falls into three groups. On subdivision lots in neighborhoods like Audubon and North Grove, it's usually a cedar privacy fence built to the HOA's height and stain rules. On the acreage west and north of town, it's long property lines in field wire, no-climb horse fence, barbed wire, pipe, or rail, with drive gates wide enough for a truck and trailer. For HOA work, we put together the layout, material, and color details your committee asks for and wait for approval before we build.</p>
+<p>Every job starts with Texas 811 locates, and we set posts for the sandy-over-clay ground found across the area. See <a href="/process/">how our process works</a>, or read about <a href="/service-areas/magnolia-tx/">fencing around Magnolia</a>, including neighborhoods and city permits.</p>
+</div>
+</section>
+
+<section class="section76">
 <h2>What We Build</h2>
 <p class="section-intro76">Every property out here is a little different. A quarter-acre lot in a master-planned neighborhood, a lakefront home in a gated community, and five acres off a county road all need different fences. We build all three.</p>
 <div class="cards76">
