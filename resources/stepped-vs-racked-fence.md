@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Stepped vs. Racked Fence on a Sloped Yard | 76 Fence"
+title: "Stepped vs. Racked Fence on a Sloped Yard"
 description: "Stepped vs. racked fence for a sloped yard in Magnolia or Pinehurst: how each looks, gaps underneath, which materials can rack, cost, and drainage."
 permalink: /resources/stepped-vs-racked-fence/
 kind: article

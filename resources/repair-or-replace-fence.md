@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Repair or Replace a Fence? How to Decide | 76 Fence"
+title: "Repair or Replace a Fence? How to Decide"
 description: "Should you repair or replace your fence? How we judge posts, damage, age, and matching boards on Magnolia and Pinehurst fences, and what each choice costs."
 permalink: /resources/repair-or-replace-fence/
 kind: article

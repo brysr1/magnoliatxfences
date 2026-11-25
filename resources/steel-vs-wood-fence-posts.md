@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Steel vs. Wood Fence Posts in Magnolia, TX | 76 Fence"
+title: "Steel vs. Wood Fence Posts in Magnolia, TX"
 description: "Steel vs. wood fence posts for a wood fence in Magnolia and Pinehurst: cost, rot and termites, strength in sandy soil, looks, HOA rules, and lifespan."
 permalink: /resources/steel-vs-wood-fence-posts/
 kind: article

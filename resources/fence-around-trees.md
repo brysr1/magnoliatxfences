@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Building a Fence Around Trees in Magnolia, TX | 76 Fence"
+title: "Building a Fence Around Trees in Magnolia, TX"
 description: "Building a fence around trees on a wooded Magnolia or Pinehurst lot? How we route around trunks, set posts between roots, and keep limbs off the line."
 permalink: /resources/fence-around-trees/
 kind: article
