@@ -43,7 +43,7 @@ faqs:
 <tr><th>What goes through</th><th>Opening we'd start with</th></tr>
 </thead>
 <tbody>
-<tr><td>Walk traffic, trash carts</td><td>About 4 ft</td></tr>
+<tr><td>Walk traffic, trash carts</td><td>About 3-4 ft</td></tr>
 <tr><td>Riding mower or zero-turn</td><td>Deck width plus about 12 in, often 5 to 6 ft</td></tr>
 <tr><td>Car or pickup, straight approach</td><td>About 12 ft, usually as a double gate</td></tr>
 <tr><td>Truck and trailer, boat, or RV with a turn</td><td>14 to 16 ft or more, depending on the turn</td></tr>
